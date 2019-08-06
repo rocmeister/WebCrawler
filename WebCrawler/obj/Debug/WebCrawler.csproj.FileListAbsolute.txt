@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\bin\Debug\WebCrawler.exe.config
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\bin\Debug\WebCrawler.exe
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\bin\Debug\WebCrawler.pdb
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\obj\Debug\WebCrawler.exe
+\\Mac\Home\Desktop\WebCrawler1\WebCrawler\obj\Debug\WebCrawler.pdb

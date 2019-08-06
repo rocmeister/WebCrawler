@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="description" content="Thanks for your interest in filming or photographing on the Rice campus. We are proud of the beauty of our campus, and of the fact that many Rice landmarks are regarded as Houston landmarks as well." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://welcome.rice.edu/filming-and-photography-rice" />
+<link rel="shortlink" href="https://welcome.rice.edu/node/1516" />
+    <title>Filming and Photography at Rice | Welcome | Rice University | Rice University</title>
+
+        <meta name="apple-mobile-web-app-title" content="RUAF">
+    <meta name="application-name" content="RUAF">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+
+    <!-- STYLES -->
+    <style type="text/css" media="all">
+@import url("https://welcome.rice.edu/modules/system/system.base.css?punmbx");
+@import url("https://welcome.rice.edu/modules/system/system.menus.css?punmbx");
+@import url("https://welcome.rice.edu/modules/system/system.messages.css?punmbx");
+@import url("https://welcome.rice.edu/modules/system/system.theme.css?punmbx");
+</style>
+<style type="text/css" media="all">
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?punmbx");
+</style>
+<style type="text/css" media="all">
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/date/date_api/date.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?punmbx");
+@import url("https://welcome.rice.edu/modules/field/theme/field.css?punmbx");
+@import url("https://welcome.rice.edu/modules/node/node.css?punmbx");
+@import url("https://welcome.rice.edu/modules/user/user.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/custom/video_filter/video_filter.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/views/css/views.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?punmbx");
+</style>
+<style type="text/css" media="all">
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/ctools/css/ctools.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/modules/contrib/panels/css/panels.css?punmbx");
+</style>
+<style type="text/css" media="all">
+@import url("https://welcome.rice.edu/themes/stark/layout.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/themes/custom/ricestark/css/main.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/themes/custom/ricestark/css/custom.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/themes/custom/ricestark/css/hero.css?punmbx");
+@import url("https://welcome.rice.edu/sites/all/themes/custom/ricestark/css/extra.css?punmbx");
+</style>
+<style type="text/css" media="print">
+@import url("https://welcome.rice.edu/sites/all/themes/custom/ricestark/css/print.css?punmbx");
+</style>
+    <style type="text/css" media="all">
+      /* Hero Image Workaround */
+      	      </style>
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+      <link rel="stylesheet" href="sites/all/themes/custom/ricestark/css/ie.css">
+      <script src="sites/all/themes/custom/ricestark/scripts/html5shiv.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+      <link rel="stylesheet" href="sites/all/themes/custom/ricestark/css/ie7.css" type="text/css" media="screen" />
+      <script src="sites/all/themes/custom/ricestark/scripts/ie7.js"></script>
+    <![endif]-->
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://welcome.rice.edu/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://welcome.rice.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://welcome.rice.edu/misc/drupal.js?punmbx"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://welcome.rice.edu/sites/all/themes/custom/ricestark/scripts/rice-trajan.js?punmbx"></script>
+<script type="text/javascript" src="https://welcome.rice.edu/sites/all/modules/contrib/google_analytics/googleanalytics.js?punmbx"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2249859-27", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ricestark","theme_token":"Wt-vLbYwVm-4ReEZM005zqQhO4b6CGgMltcTrn_HWAI","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/themes\/custom\/ricestark\/scripts\/rice-trajan.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/custom\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"themes\/stark\/layout.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/main.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/custom.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/hero.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/extra.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/print.css":1}},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/custom\/video_filter"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+
+
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1516 node-type-enhanced-page"  >
+
+        <div id="skiplinkholder"><a id="skiplink" href="#skiptarget">Skip Navigation and go to main content (Press Enter).</a></div>
+
+        <div class="accessheader">
+      <a href="http://dss.rice.edu/"> Accessibility Help </a> | <a href="https://get.adobe.com/reader/">Download Adobe Acrobat Reader for .pdf Files</a>
+    </div>
+
+    <!--[if lt IE 9]><div id="old-browser"><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer is missing updates required to properly view this site. Click here to update&#8230;</a></div><![endif]-->
+
+        <!-- PAGE -->
+<!-- REGION: HEADER -->
+<header>
+  <!-- block: menu -->
+<nav id="resource-bar"><div class="title">Resources for:</div><!--This is the very top grey bar with resources --><ul id="gateways"><li><a href="http://www.rice.edu/undergraduates.shtml" title="">Undergraduates</a></li><li><a href="http://www.rice.edu/graduates.shtml" title="">Graduates</a></li><li><a href="http://www.rice.edu/parents.shtml" title="">Parents</a></li><li><a href="http://www.rice.edu/faculty-staff.shtml" title="">Faculty &amp; Staff</a></li></ul></nav><!-- block: Rice Header -->
+<!-- BRAND BAR -->
+<div class="container">
+    <div class="row">
+
+      <!-- Logo -->
+      <div class="logo alpha col-8 omega">
+        <div class="logo-img">
+          <a href="http://rice.edu">
+            <img src="/sites/all/themes/custom/ricestark/images/rice-logo-alt.jpg" alt="Rice University Logo" width="180">
+          </a>
+        </div> <!-- End .logo-img-->
+        <div class="logo-text sr-only">
+          <div>Rice University</div>
+        </div> <!-- End .logo-text-->
+
+                            <div class="acronym">
+            <a href="/" class="tk-trajan-pro-3">Welcome</a>          </div>
+          
+                    <div class="school-full-name">
+            <a href="/" class="">Welcome to Rice University</a>          </div>
+                  
+      </div> <!-- End .logo-->
+
+      <!-- Search -->
+      <div class="search hidden-sm">
+        <form action="https://search.rice.edu/" name="gs" method="get">
+          <label class="hidden" for="p">Search Form</label>
+          <input name="q" type="text" id="p" title="search engine" aria-label="Search Terms" size="18" maxlength="255"/>
+          <button type="submit" name="tab" class="fa fa-search"><span class="button-label">Search</span></button>
+        </form>
+      </div> <!-- // End .search-->
+
+    </div> <!-- // End .row -->
+  </div> <!-- // End .container -->
+
+<!-- BRAND BAR END -->
+<div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <nav id="topnav" class="main-nav" role="navigation"><!-- This is the nav that shows on desktop --><div class="navrow" role="navigation"><ul class="nav" role="menu"><li class="first leaf nav-item" data-menu-location="main-menu-1"><a href="/" title="">Home</a></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/content/welcome-center">About Us</a></li><li class="expanded nav-item" data-menu-location="main-menu-1"><span title="OwlSpark was founded to ignite a passion for entrepreneurship within the Rice community." data-dropdown="getting-here" class="nolink">Getting Here</span><div class="dropdown getting-here-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><img src="https://welcome.rice.edu/sites/g/files/bxs1401/f/megamenu/megamenu_image_2-160726-110704-1026_KIPLINGER-lovett-b-310x208.jpg" alt="Lovett Hall, Rice University"></div><li class="first expanded" data-menu-location="main-menu-2" data-menu-group="getting-here" data-link-order="0"><div class="col-2 alpha"><h2><span title="" class="heading-link nolink">Campus Maps</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="https://myatlascms.com/map/?id=473#!ct/13398" title="">Interactive Map</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="https://www.google.com/maps/place/Rice+University/@29.717398,-95.4036717,17z/data=!3m1!4b1!4m2!3m1!1s0x8640c064b7f18e1f:0xe2cd9cf065c43eb5" title="">Google Map</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="http://www.rice.edu/maps/Rice-University-BW-Campus-Map.pdf" title="">Print Map (B&amp;W)</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="http://www.rice.edu/maps/Rice-University-Color-Campus-Map.pdf" title="">Print Map (Color)</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="getting-here" data-link-order="1"><div class="col-2 omega"><h2><span title="" class="heading-link nolink">Parking &amp; Transportation</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="https://parking.rice.edu/" title="">Parking</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="http://transportation.rice.edu/" title="">Transportation</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="http://www.rice.ridesystems.net/default.aspx" title="">Shuttle Tracking</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="expanded nav-item" data-menu-location="main-menu-1"><span title="" data-dropdown="tours" class="nolink">Tours</span><div class="dropdown tours-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="tours" data-link-order="0"><div class="col-3"><a href="https://admission.rice.edu/">Prospective Students (9th -12th Graders)</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="tours" data-link-order="1"><div class="col-2 omega"><a href="https://visit.rice.edu/tour/" title="">Elementary &amp; Middle School Groups</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/college-ready">College Readiness</a></li><li class="expanded active-trail nav-item" data-menu-location="main-menu-1"><a href="/filming-and-photography-rice" class="active-trail active" data-dropdown="photography">Photography</a><div class="dropdown photography-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="photography" data-link-order="0"><div class="col-3"><a href="https://portraits.rice.edu/">Portrait Photography</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="photography" data-link-order="1"><div class="col-2 omega"><a href="https://professor.rice.edu/uploadedFiles/Professor/Independent_Pages/Policies/Policy%20847.pdf">Unmanned Aircraft Systems Policy</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="last expanded nav-item" data-menu-location="main-menu-1"><span title="" data-dropdown="staff-faculty" class="nolink">Staff/Faculty</span><div class="dropdown staff-faculty-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first expanded" data-menu-location="main-menu-2" data-menu-group="staff-faculty" data-link-order="0"><div class="col-2 alpha"><h2><span title="" class="heading-link nolink">Loan Programs</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="loan-programs"><a href="/list-loan-items">List of Loan items</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="loan-programs"><a href="https://welcome.rice.edu/sites/g/files/bxs1401/f/Loan-Agreement-Form.pdf">Request Form</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="staff-faculty" data-link-order="1"><div class="col-2 omega"><h2><span title="" class="heading-link nolink">Student Ambassadors</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="student-ambassadors"><a href="/student-ambassadors">About the Program</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="student-ambassadors"><a href="https://welcome.rice.edu/sites/g/files/bxs1401/f/Student%20Ambassador%20Request%20Form.pdf">Request a Student Ambassador</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li></ul></div><div class="mobilenavouter"><div class="row"><div id="navslider"><button type="button" class="navbar-toggle show_hide"><span class="icon-bar"><span class="toggleaccess">Mobile Menu</span></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button></div><!--//End navslider--><div class="search visible-sm"><div class="adj"><!-- trying to fix pixel offset --><form  action="https://search.rice.edu" name="gs" method="get"><label class="hidden" for="q">Search Form</label><input name="q" type="text" id="q" title="search engine" aria-label="Search Form" size="18" maxlength="255"/><button type="submit" name="tab" class="fa fa-search"><span class="button-label">Search</span></button></form></div><!--//End adj--></div><!--//End search--><div class="slidingDiv"><div id="mobnav-container"><!-- This is the top nav that shows on mobile devices in the left hand column ---><ul id="mainnav" class="mobnav"><li class="first leaf nav-item" data-menu-location="main-menu-1"><a href="/" title="">Home</a></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/content/welcome-center">About Us</a></li><li class="expanded nav-item" data-menu-location="main-menu-1"><span title="OwlSpark was founded to ignite a passion for entrepreneurship within the Rice community." data-dropdown="getting-here" class="nolink">Getting Here</span><div class="dropdown getting-here-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><img src="https://welcome.rice.edu/sites/g/files/bxs1401/f/megamenu/megamenu_image_2-160726-110704-1026_KIPLINGER-lovett-b-310x208.jpg" alt="Lovett Hall, Rice University"></div><li class="first expanded" data-menu-location="main-menu-2" data-menu-group="getting-here" data-link-order="0"><div class="col-2 alpha"><h2><span title="" class="heading-link nolink">Campus Maps</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="https://myatlascms.com/map/?id=473#!ct/13398" title="">Interactive Map</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="https://www.google.com/maps/place/Rice+University/@29.717398,-95.4036717,17z/data=!3m1!4b1!4m2!3m1!1s0x8640c064b7f18e1f:0xe2cd9cf065c43eb5" title="">Google Map</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="http://www.rice.edu/maps/Rice-University-BW-Campus-Map.pdf" title="">Print Map (B&amp;W)</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="campus-maps"><a href="http://www.rice.edu/maps/Rice-University-Color-Campus-Map.pdf" title="">Print Map (Color)</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="getting-here" data-link-order="1"><div class="col-2 omega"><h2><span title="" class="heading-link nolink">Parking &amp; Transportation</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="https://parking.rice.edu/" title="">Parking</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="http://transportation.rice.edu/" title="">Transportation</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="parking-transportation"><a href="http://www.rice.ridesystems.net/default.aspx" title="">Shuttle Tracking</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="expanded nav-item" data-menu-location="main-menu-1"><span title="" data-dropdown="tours" class="nolink">Tours</span><div class="dropdown tours-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="tours" data-link-order="0"><div class="col-3"><a href="https://admission.rice.edu/">Prospective Students (9th -12th Graders)</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="tours" data-link-order="1"><div class="col-2 omega"><a href="https://visit.rice.edu/tour/" title="">Elementary &amp; Middle School Groups</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/college-ready">College Readiness</a></li><li class="expanded active-trail nav-item" data-menu-location="main-menu-1"><a href="/filming-and-photography-rice" class="active-trail active" data-dropdown="photography">Photography</a><div class="dropdown photography-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="photography" data-link-order="0"><div class="col-3"><a href="https://portraits.rice.edu/">Portrait Photography</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="photography" data-link-order="1"><div class="col-2 omega"><a href="https://professor.rice.edu/uploadedFiles/Professor/Independent_Pages/Policies/Policy%20847.pdf">Unmanned Aircraft Systems Policy</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="last expanded nav-item" data-menu-location="main-menu-1"><span title="" data-dropdown="staff-faculty" class="nolink">Staff/Faculty</span><div class="dropdown staff-faculty-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first expanded" data-menu-location="main-menu-2" data-menu-group="staff-faculty" data-link-order="0"><div class="col-2 alpha"><h2><span title="" class="heading-link nolink">Loan Programs</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="loan-programs"><a href="/list-loan-items">List of Loan items</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="loan-programs"><a href="https://welcome.rice.edu/sites/g/files/bxs1401/f/Loan-Agreement-Form.pdf">Request Form</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="staff-faculty" data-link-order="1"><div class="col-2 omega"><h2><span title="" class="heading-link nolink">Student Ambassadors</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="student-ambassadors"><a href="/student-ambassadors">About the Program</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="student-ambassadors"><a href="https://welcome.rice.edu/sites/g/files/bxs1401/f/Student%20Ambassador%20Request%20Form.pdf">Request a Student Ambassador</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li></ul></div></div><!--//End slidingDiv--></div><!--//End Row --></div><!--//End mobilenavouter--></nav>  </div>
+</div>
+</header>
+<!-- REGION: HEADER (END)-->
+<!-- REGION: HERO -->
+  <div class="content-hero-container" style="background-image:url(https://welcome.rice.edu/sites/g/files/bxs1401/f/blue5_11.jpg);">
+          <div class="container">
+        <div class="row">
+          <h1 class="page-title col-12 omega">Filming and Photography at Rice</h1>
+        </div>
+      </div>
+      </div>
+
+<div class="underhero container">
+  <div class="row">
+      </div>
+</div>
+<!-- REGION: HERO (END)-->
+
+  <section class="container">
+    <div class="row content-item">
+
+      <!-- REGION: SIDEBAR-FIRST -->
+<div class="sidebar-first col-3 alpha">
+  <div id="block-menu-block-1" class="block block-menu-block rice-button-menu">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-14041" data-menu-location="main-menu-2" data-menu-group="photography"><a href="https://portraits.rice.edu/">Portrait Photography</a></li><li class="last leaf menu-mlid-14036" data-menu-location="main-menu-2" data-menu-group="photography"><a href="https://professor.rice.edu/uploadedFiles/Professor/Independent_Pages/Policies/Policy%20847.pdf">Unmanned Aircraft Systems Policy</a></li></ul></div>
+  </div>
+</div>
+<!-- block: Social Links -->
+<div class="row">
+  <ul class="social-links">
+          <li>
+        <a href="https://www.facebook.com/Rice-Alliance-for-Technology-Entrepreneurship-340032975996/">
+          <span class="icontext">Rice University on Facebook</span>
+                    <span class="fa fa-facebook"></span>
+        </a>
+      </li>
+          <li>
+        <a href="https://twitter.com/ricealliance">
+          <span class="icontext">Rice University on Twitter</span>
+                    <span class="fa fa-twitter"></span>
+        </a>
+      </li>
+          <li>
+        <a href="https://www.linkedin.com/company/rice-alliance-for-technology-and-entrepreneurship">
+          <span class="icontext">Rice University on Linkedin</span>
+                    <span class="fa fa-linkedin"></span>
+        </a>
+      </li>
+          <li>
+        <a href="https://www.youtube.com/user/ricealliance">
+          <span class="icontext">Rice University on Youtube</span>
+                    <span class="fa fa-youtube"></span>
+        </a>
+      </li>
+          <li>
+        <a href="http://instagram.com/riceuniversity">
+          <span class="icontext">Rice University on Instagram</span>
+                    <span class="fa fa-instagram"></span>
+        </a>
+      </li>
+      </ul>
+</div>
+<div id="block-block-116" class="block block-block">
+
+    
+  <div class="content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.marker, .form-required {
+    color: #df0000;
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.webform-client-form {
+    padding: 0px;
+    background-color: #ffffff;
+    border-radius: 0px;
+}
+
+.webform-client-form .form-item {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.form-item, .form-actions {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.form-item input
+{
+border-style: solid!important;
+border-width:1px!important;
+border-color:#666!important;
+}
+.form-item input.webform-calendar
+{
+border: 1px #999 solid!important;
+border-bottom-color: #666!important;
+width:22px!important;min-height:22px!important;height:22px!important;
+}
+.webform-confirmation + .links { /* Hide 'Go back to form' link (hardcoded in webform-confirmation.tpl.php) */
+    display:none;
+}
+
+ul .menu .leaf {
+
+font-size: 1em !important;
+
+}
+.webform-container-inline label{display:block!important;}
+.webform-container-inline label.option{display:inline!important;}
+div.description {margin-top:5px!important;margin-bottom:10px!important;}
+.form-textarea-wrapper textarea{width:100%!important;}
+
+.webform-client-form .button-primary
+{background-position: 95% center;
+padding: 10px 40px 10px 10px !important;}
+
+/* month (#edit-submitted-start-date-month), day, year, hour, minute */
+
+.table tr:nth-child(even) {
+    background-color: #ffffff;
+}
+.table tr:nth-child(odd) {
+    background-color: #eeeeee;
+}
+/*--><!]]>*/
+</style>  </div>
+</div>
+</div>
+<!-- REGION: SIDEBAR-FIRST (END)-->
+
+            <div id="featured-content" class="col-9 omega">
+        <a id="skiptarget"></a>
+
+        
+                  <div class="tabs">
+                      </div>
+        
+        
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="info-section">
+  <div class="module-info">
+        <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Thanks for your interest in filming or photographing on the Rice campus. We are proud of the beauty of our campus, and of the fact that many Rice landmarks are regarded as Houston landmarks as well. Because of issues of privacy, security, potential disruption of campus activities and implied endorsement, the following guidelines have been established to help clarify the rights and responsibilities of our guests relating to campus photography, filming and videography (for simplicity, all references to photography in this and related documents are meant to include all forms of film, video and digital imaging and any related audio recording). If you are unable to find the answers you need in the guidelines below, please contact the <a href="https://publicaffairs.rice.edu/content/university-relations" title="Office of University Relations"><strong>Office of University Relations</strong></a> directly.</p>
+<h2>
+	All Photographers</h2>
+<p>No photography at Rice may be used to imply the university’s endorsement of any individual, organization, product or activity without prior permission specifically granted in writing by appropriate authorities of the university. Permission to photograph key university image assets for commercial reproduction or broadcast likewise requires prior written permission and is rarely granted (image assets include the university’s name and logo, and signature structures such as Lovett Hall, Willy’s Statue and the Turrell Skyspace).  Because of concerns that the resulting images may later be used without the university's knowledge or permission, shooting of commercial stock photography on the Rice campus is not permitted.  For reasons of safety and security, use of aerial drones in the airspace above Rice property, whether for photography, instruction or recreation, requires specific prior permission and must be conducted in accordance with the <a href="https://policy.rice.edu/847">Rice University Drone Policy</a> and relevant FAA restrictions.  Please contact the <a href="https://publicaffairs.rice.edu/content/university-relations"><b>Office of University Relations</b></a> for details.</p>
+<p> </p>
+<p>We ask that all campus photographers:</p>
+<ul><li>
+		Respect the privacy of campus residences.  With the exceptions of Cohen House, the Rice faculty club, and Huff House, the location of the Office of Alumni Affairs, these are any buildings on the <a href="http://rice.edu/maps">campus map</a> whose names include the words "house" or "college."<br />
+		 </li>
+<li>
+		Avoid disruption of classes or other university functions. In particular, we ask that you refrain from imaging the interiors of any buildings unless you have secured prior permission (using the form available under the Commercial Use heading below).</li>
+</ul><ul><li>
+		Respect the rights of Rice students, employees and visitors not to be photographed without their knowledge and permission.  Also, please note that use of any recognizable image of an NCAA athlete in conjunction with any commercial promotional purpose other than university self-promotion could jeopardize the scholarship eligibility of the student athlete(s) so depicted, and thus is prohibited.</li>
+</ul><p>Granting of photographic permission on the Rice campus or any Rice-owned property in no way implies surrender of the university's rights to manage and supervise its property under normal rules governing its operation. The Rice University campus is private property and guests may be requested to leave the campus for any reason at any time. By photographing at Rice, those photographing agree that in the event of such a request, the university's liability is limited to the refund of any campus photographic usage fees that may have been paid.</p>
+<p> </p>
+<p>To minimize the likelihood of interruptions by campus security, prior to shooting, photographers wishing to shoot images on the campus after dark should stop by the Rice University Police Department (just inside campus gate 8, University Boulevard at Stockton) to announce their intent, and, in the case of any kind of photography besides personal photography, to show written proof of permission and to have their photo IDs copied by the officers on duty.</p>
+<p>To prevent damage to inlaid stone and brick floors and walkways on campus by photographic equipment, all photographers should assure that appropriate precautions are taken and in particular that all photographic and lighting equipment has rubber contact points.</p>
+<h2>
+	Personal Photography</h2>
+<p>Amateur photographers interested in images of Rice for their personal enjoyment are welcome to visit the campus and photograph the exteriors of academic and administrative/support buildings and athletic complexes (see <a href="http://www.rice.edu/maps"><b>campus map</b></a>) provided they respect the privacy of campus residences, avoid disruption of classes or other university functions, and respect the rights of Rice students, employees and visitors not to be photographed without their knowledge and permission.  (Please see full guidelines under the heading “All Photographers,” above.)</p>
+<h2>
+	Bridal and other Professional Portrait Photography</h2>
+<p>Rice is proud to have been a part of the special memories of so many Houston brides and their families and continues to offer the use of our campus for personal portraiture by professional photographers by prior arrangement as set forth in our <a href="http://portraits.rice.edu/"><b>Bridal &amp; Portrait Photography Guidelines</b>.</a> Portraits and other photography being used for promotional or commercial purposes require permission as set forth below.</p>
+<h2>
+	Commercial Use or Promotional Reproduction</h2>
+<p>Requests for filming and photographic use of the Rice campus for commercial use or promotional reproduction should be made in writing using the <b><a href="https://publicaffairs.rice.edu/sites/g/files/bxs501/f/Film-Photo-Request-Form.pdf" target="_blank" title="On Campus Photo Shoot &amp; Filming Request form">On Campus Photo Shoot &amp; Filming Request form</a></b>. Please note that requests should be submitted a minimum of five days prior to your need-to-know deadline to allow time for appropriate approvals to be sought. The completed form should be accompanied by an unabridged copy of the shooting script with the scene(s) to be shot at Rice highlighted, or a rough layout of the proposed ad or printed collateral showing the specific text which would be associated with any image(s) of the Rice campus. For this type of photography, photographers also must provide proof of insurance as outlined in the <a href="https://publicaffairs.rice.edu/required-insurance"><b>Required Insurance for Lessees of Rice Facilities</b></a>. Assuming the photo or filming request is approved, execution of a separate Campus Use Agreement also may be required. Those wishing to scout locations prior to submitting a written photo or filming request should contact the <a href="https://publicaffairs.rice.edu/content/university-relations"><b>Office of University Relations</b></a>.</p>
+<h2>
+	Media Photography</h2>
+<p>The photographic needs of the print, broadcast, and on-line media can be accommodated at no charge with the assistance of the <a href="https://publicaffairs.rice.edu/news-media-relations"><strong>Office of News and Media Relation</strong>s</a>.</p>
+<h2>
+	Political Photography and Filming</h2>
+<p>As a nonprofit educational institution, Rice is constrained by law from endorsement of any particular political candidate or party. Because photography or filming of a candidate or elected official in front of recognizable Rice landmarks and use of such images in campaign or other promotional materials may be viewed by some as implied endorsement, Rice is unable to approve such filming and photo requests. Questions concerning any proposed political use of the Rice campus should be directed to the director of the <a href="https://publicaffairs.rice.edu/government-relations" title="Office of Government Relations"><b>Office of Government Relations</b></a><b>.</b></p>
+</div></div></div>  </div>
+  </div>
+  </div>
+</div>
+  </div>
+
+      </div>
+
+      
+    </div>
+  </section>
+
+<!-- REGION: FOOTER -->
+<a href="#" class="cd-top">Top</a>
+<footer>
+  <div class="container">
+    <div id="footer-logo" class="row">
+      <div class="col-12 alpha">
+        <img src="/sites/all/themes/custom/ricestark/images/rice-logo.jpg" alt="Rice Logo - Shield with the word Rice next to it." width="120">
+        <p class="address">
+          6100 Main St., Houston, TX 77005-1827 <br>
+          Mailing Address: P.O. Box 1892 Houston, TX 77251-1892<br>
+          713-348-0000&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://privacy.rice.edu">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- REGION: FOOTER (END)-->
+    
+        <script id="tools" type="text/javascript" async="async" defer="defer" src="/sites/all/themes/custom/ricestark/scripts/tools5.js"></script>
+
+  </body>
+</html>
+<a href="/sitehome/p/2" onclick="aggSite.loadCategoryPostList(2,20);buildPaging(2);return false;">Next &gt;</a></div></div><script type="text/javascript">var pagingBuider={"OnlyLinkText":false,"TotalCount":4000,"PageIndex":1,"PageSize":20,"ShowPageCount":5,"SkipCount":0,"UrlFormat":"/sitehome/p/{0}","OnlickJsFunc":"aggSite.loadCategoryPostList()","FirstPageLink":"/","AjaxUrl":"/mvc/ToolkitPaging/load.aspx","AjaxCallbak":null,"TopPagerId":"pager_top","IsRenderScript":true};function buildPaging(pageIndex){pagingBuider.PageIndex=pageIndex;$.ajax({url:pagingBuider.AjaxUrl,data:JSON.stringify(pagingBuider),type:'post',dataType:'text',contentType:'application/json; charset=utf-8',success:function (data) { $('#paging_block').html(data); var pagerTop=$('#pager_top');if(pageIndex>1){$(pagerTop).html(data).show();}else{$(pagerTop).hide();}}});}</script>
+</div>
+            <div id="side_nav">
+                
+<div id="cate_title_block">
+<div id="cate_title_title"><div class="cate_title">网站分类</div></div>
+<ul id="cate_item">
+<li id="cate_item_108698" onmouseover="cateShow(108698)" onmouseout="cateHidden(108698)">
+<a href="/cate/108698/">.NET技术(1)</a>
+</li>
+<li id="cate_item_2" onmouseover="cateShow(2)" onmouseout="cateHidden(2)">
+<a href="/cate/2/">编程语言(8)</a>
+</li>
+<li id="cate_item_108701" onmouseover="cateShow(108701)" onmouseout="cateHidden(108701)">
+<a href="/cate/108701/">软件设计(0)</a>
+</li>
+<li id="cate_item_108703" onmouseover="cateShow(108703)" onmouseout="cateHidden(108703)">
+<a href="/cate/108703/">Web前端(2)</a>
+</li>
+<li id="cate_item_108704" onmouseover="cateShow(108704)" onmouseout="cateHidden(108704)">
+<a href="/cate/108704/">企业信息化(0)</a>
+</li>
+<li id="cate_item_108705" onmouseover="cateShow(108705)" onmouseout="cateHidden(108705)">
+<a href="/cate/108705/">手机开发(0)</a>
+</li>
+<li id="cate_item_108709" onmouseover="cateShow(108709)" onmouseout="cateHidden(108709)">
+<a href="/cate/108709/">软件工程(0)</a>
+</li>
+<li id="cate_item_108712" onmouseover="cateShow(108712)" onmouseout="cateHidden(108712)">
+<a href="/cate/108712/">数据库技术(1)</a>
+</li>
+<li id="cate_item_108724" onmouseover="cateShow(108724)" onmouseout="cateHidden(108724)">
+<a href="/cate/108724/">操作系统(2)</a>
+</li>
+<li id="cate_item_4" onmouseover="cateShow(4)" onmouseout="cateHidden(4)">
+<a href="/cate/4/">其他分类(2)</a>
+</li>
+<li id="cate_item_0" onmouseover="cateShow(0)" onmouseout="cateHidden(0)">
+<a href="/cate/all/">所有随笔(160)</a>
+</li>
+<li id="cate_item_-1" onmouseover="cateShow(-1)" onmouseout="cateHidden(-1)">
+<a href="/comment/">所有评论(16)</a>
+</li>
+</ul>
+<div class="cate_bottom"></div>
+<div id="cate_sub_block"></div>
+<script type="text/javascript">var cateIdList = '108698,2,108701,108703,108704,108705,108709,108712,108724,4';aggSite.loadSubCategories();</script>
+</div>
+    <div class="l_s"></div>
+<p class="r_l_3"></p><p class="r_l_2"></p><p class="r_l_1"></p>
+<div class="w_l">
+<h4>链接</h4>        
+<ul>
+    <li><a href="https://group.cnblogs.com/forum/public/" target="_blank">反馈或建议</a></li> 
+    <li><a href="//www.cnblogs.com/cmt/" target="_blank">官方博客</a></li>
+    <li><a href="/skins.aspx" target="_blank">博客模板</a></li>
+    <li><a href="http://www.blogjava.net/">Java博客</a></li>
+    <li><a href="http://www.cppblog.com/">C++博客</a></li>
+    <li><a href="//www.cnblogs.com/cmt/archive/2009/09/26/1574616.html">手机版</a></li>
+</ul>
+</div>
+<p class="r_l_1"></p><p class="r_l_2"></p><p class="r_l_3"></p>
+<div class="l_s"></div>
+<div id="user_stats"></div>
+<div class="l_s"></div>        
+<p class="r_l_3"></p><p class="r_l_2"></p><p class="r_l_1"></p>
+<div class="w_l">                
+<h4>统计信息</h4>
+<div id="site_stats"></div>      
+</div>
+<p class="r_l_1"></p><p class="r_l_2"></p><p class="r_l_3"></p>
+
+            </div>
+            <div id="side_right">
+                    <div id="search_block">
+                        <div class="side_search">
+                            <input type="text" id="zzk_q" class="search_input" onkeydown="return zzk_go_enter(event);" tabindex="3" /><input onclick="zzk_go()" type="button" class="search_btn" value="找找看" />
+                        </div>
+                        <div id="google_search" class="side_search">
+                            <input type="text" id="google_search_q" class="search_input" onkeydown="return google_search_enter(event);" /><input type="button" value="Google" class="search_btn" onclick="return google_search();" />
+                        </div>
+                    </div>
+                <div id="cnblogs_a1">
+                    <div id='div-gpt-ad-1547816814884-0' style='height:60px; width:468px;'>
+                        <script>
+                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1547816814884-0'); });
+                        </script>
+                    </div>
+                </div>
+                <div id="cnblogs_b1" class="sidebar-image">
+                    <div id='div-gpt-ad-1546331539224-0' style='height:250px; width:300px;'>
+                        <script>
+                            googletag.cmd.push(function () { googletag.display('div-gpt-ad-1546331539224-0'); });
+                        </script>
+                    </div>
+                </div>
+                <div id="ad_right_text" class="ad_right_text"></div>
+                <div id="side_right_block"></div>
+            </div>
+        </div>
+            <div id="footer">
+                <div class="footer_block">
+                    <p class="r_b_3"></p><p class="r_b_2"></p><p class="r_b_1"></p><div id="friend_link">
+    友情链接：<a href="https://www.aliyun.com" target="_blank">阿里云</a><a href="https://cloud.tencent.com/?fromSource=gwzcw.541531.541531.541531" target="_blank">腾讯云</a><a href="https://www.huaweicloud.com/" target="_blank">华为云</a><a href="https://cloud.baidu.com" target="_blank">百度云</a><a href="https://www.163yun.com" target="_blank">网易云</a><a href="http://www.gcpowertools.com.cn" target="_blank">葡萄城控件</a><a href="http://www.hujiang.com" target="_blank">沪江网</a><a href="http://www.chinaz.com/" target="_blank">站长之家</a><a href="http://dev.yesky.com" target="_blank">天极网</a><a href="http://down.admin5.com" target="_blank">A5源码下载</a><a href="http://www.hightopo.com/cn-index.html" target="_blank">图扑软件</a><a href="http://www.cnblogs.com/mipengine/" target="_blank">百度MIP博客</a><a href="http://wetest.qq.com/?from=links_cnblogs" target="_blank">腾讯WeTest</a><a href="http://yaq.qq.com/" target="_blank">腾讯御安全</a><a href="http://www.ucancode.com/index.html" target="_blank">工控组态源码</a><a href="https://163yun.cnblogs.com/" target="_blank">网易云博客</a><a href="https://www.huanpingge.com/" target="_blank">换屏哥手机维修</a>
+</div><p class="r_b_1"></p><p class="r_b_2"></p><p class="r_b_3"></p>
+                </div>
+            </div>
+        <div id="footer_bottom">
+            <div><a href="https://about.cnblogs.com/">关于博客园</a><a href="https://about.cnblogs.com/contact">联系我们</a><a href="https://about.cnblogs.com/ad">广告服务</a>&copy;2004-2019<a href="http://www.cnblogs.com/">博客园</a>保留所有权利<a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备09004260号</a></div>
+            <div><a href="https://ss.knet.cn/verifyseal.dll?sn=e131108110100433392itm000000&amp;ct=df&amp;a=1&amp;pa=0.25787803245785335" rel="nofollow" target="_blank"><img id="cnnic_img" src="//common.cnblogs.com/images/cnnic.png" alt="" width="64" height="23" /></a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502001144" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//common.cnblogs.com/images/ghs.png" alt="" /><span style="float:left;height:20px;line-height:20px;margin: 0 5px 0 5px; color:#939393;">沪公网安备 31011502001144号</span></a></div>
+        </div>
+    </div>
+</body>
+</html>
+ss.knet.cn/verifyseal.dll?sn=e131108110100433392itm000000&amp;ct=df&amp;a=1&amp;pa=0.25787803245785335" rel="nofollow" target="_blank"><img id="cnnic_img" src="//common.cnblogs.com/images/cnnic.png" alt="" width="64" height="23" /></a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502001144" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//common.cnblogs.com/images/ghs.png" alt="" /><span style="float:left;height:20px;line-height:20px;margin: 0 5px 0 5px; color:#939393;">沪公网安备 31011502001144号</span></a></div>
+        </div>
+    </div>
+</body>
+</html>

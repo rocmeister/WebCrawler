@@ -1,0 +1,1372 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2249859-27", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Brand Standards | Rice Branding</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_5E5dyyh9cv-iuxz7HXN5iHIEyKSTMcMF1fBdLL2kdnY.css?pvmi65" />
+<link rel="stylesheet" media="all" href="https://pro.fontawesome.com/releases/v5.8.1/css/all.css" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.5.2/plyr.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_F03W33tbVjUe1AQR3q4VEBkHcECLGbaX1JcGEdRV84I.css?pvmi65" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="path-frontpage"> 
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <header class="header">
+  	<div class="header__content content-mobile">
+  		<div class="fl logo-container">
+        <a class="logo" href="/"><img class="image-responsive" src="/themes/custom/adm_rice/assets/img/Rice_University_Horizontal_Blue.svg" alt="Rice University Logo"></a>
+      </div>
+  		<div id="block-customheadercss">
+  
+    
+      
+            <div><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.button__text {
+font-size: 1.25em;
+font-weight: 600;
+}
+
+/*--><!]]>*/
+</style></div>
+      
+  </div><nav role="navigation" aria-labelledby="block-adm-rice-mainnav-menu" id="block-adm-rice-mainnav">
+            
+  <h2 class="visually-hidden" id="block-adm-rice-mainnav-menu">Main Nav</h2>
+  
+
+        
+
+<div class="menu--nav">
+  <script>
+   (function() {
+     var cx = '014332935913219502104:djq0abwo2eq';
+     var gcse = document.createElement('script');
+     gcse.type = 'text/javascript';
+     gcse.async = true;
+     gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+     var s = document.getElementsByTagName('script')[0];
+     s.parentNode.insertBefore(gcse, s);
+   })();
+</script>
+<gcse:searchresults-only></gcse:searchresults-only>
+
+  <div class="menu--items">
+    <div class="menu__back hide@m">&lt; back</div>
+                      <ul class="menu--main">
+                            <li class="menu menu__sub-toggle"><span><a href="/">Home</a></span>
+                      </li>
+                  <li class="menu menu__sub-toggle"><span>Our Brand</span>
+                                      <ul class="menu--sub hide@m">
+                            <li class="menu__sub-items">
+                                <a href="/our-brand" data-drupal-link-system-path="node/25">Overview</a>
+            
+          </li>
+                                      <li class="menu__sub-items"><span class="arrow">University Logos</span>
+                      <ul class="menu__bottom">
+                  <li class="menu__bottom-items">
+                        <a href="/university-logos" data-drupal-link-system-path="node/1">Overview</a>
+                    </li>
+                  <li class="menu__bottom-items">
+                        <a href="https://rice.box.com/s/39km9sbzuc7ni9dlziyt56cublkl2591" target="_blank">Download University Logos</a>
+                    </li>
+              </ul>
+    
+          </li>
+                                      <li class="menu__sub-items"><span class="arrow">Logo Lockups</span>
+                      <ul class="menu__bottom">
+                  <li class="menu__bottom-items">
+                        <a href="/logo-lockups" data-drupal-link-system-path="node/2">Overview</a>
+                    </li>
+                  <li class="menu__bottom-items">
+                        <a href="/academic-logos" data-drupal-link-system-path="node/36">Download Academic Logos</a>
+                    </li>
+                  <li class="menu__bottom-items">
+                        <a href="/administration-logos" data-drupal-link-system-path="node/86">Download Administration Logos</a>
+                    </li>
+              </ul>
+    
+          </li>
+                                      <li class="menu__sub-items">
+                                <a href="/design-elements" data-drupal-link-system-path="node/3">Design Elements</a>
+            
+          </li>
+                                      <li class="menu__sub-items">
+                                <a href="https://rice.photoshelter.com/galleries/C0000Xb73SJ21i_U/Rice-University-Public-Portal" target="_blank">Rice Photo Library</a>
+            
+          </li>
+                                      <li class="menu__sub-items">
+                                <a href="https://rice.worksmartsuite.com/Login.aspx" target="_blank">Stationery Storefront</a>
+            
+          </li>
+                        </ul>
+    
+                      </li>
+                  <li class="menu menu__sub-toggle"><span><a href="/verbal-identity">Verbal Identity</a></span>
+                      </li>
+                  <li class="menu menu__sub-toggle"><span><a href="/mission-values">Mission and Values</a></span>
+                      </li>
+                  <li class="menu menu__sub-toggle"><span><a href="/identity-usage">Identity Usage</a></span>
+                      </li>
+                  <li class="menu menu__sub-toggle"><span><a href="/extended-identity">Extended Identity</a></span>
+                      </li>
+                  <li class="menu menu__sub-toggle"><span><a href="/usage-guidelines">Usage Guidelines</a></span>
+                      </li>
+                    </ul>
+  
+  </div>
+</div>
+
+
+
+
+  </nav>
+<div class="menu--image" style="background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url('/sites/default/files/styles/banner_extra_large_1600xauto/public/2019-05/Rice_Hero_1-bw_optimized.png.jpeg?itok=R3N4GDaH');"  id="block-menubackground">
+	</div><div class="fr menu-box">
+  <nav class="menu menu--header">
+    <a id="share-button" class="menu__share-btn menu__item button button--round button--small share-fade" title="Social Menu">
+      <i class="button__icon button__icon--center icon icon-social"></i>
+    </a>
+    <div class="menu__share">
+      <a href="https://www.linkedin.com/edu/school?id=19472" class="button__icon-row icon icon-linkdin" title="Linked In"></a>      <a href="https://www.facebook.com/riceuniversity" class="button__icon-row icon icon-fb" title="Facebook"></a>      <a href="https://www.youtube.com/riceuniversity" class="button__icon-row icon icon-yt" title="YouTube"></a>      <a href="https://twitter.com/riceuniversity" class="button__icon-row icon icon-twitter" title="Twitter"></a>      <a href="https://instagram.com/riceuniversity" class="button__icon-row icon icon-instagram" title="Instagram"></a>    </div>
+    <a id="search-button" class="menu__search-btn menu__item button button--round button--round button--small share-fade" title="Search">
+      <i class="button__icon button__icon--center icon icon-search"></i>
+    </a>
+    <!--a id="login-button" class="share-fade menu__item button button--inline" title="Login">
+      <span class="button__text hide@s">Login</span><i class="icon icon-login"></i>
+    </a-->
+    <a id="menu-button" class="hide@m menu__item button button--inline menu-button menu-end" title="Menu">
+      <span class="button__text">Menu</span><i class="icon icon-menu"></i>
+    </a>
+    <a id="close-button" class="hide@m menu__item hideim button button--inline close-button" title="Close">
+      <span class="button__text">Close</span><i class="icon icon-close"></i>
+    </a>
+    <div class="inline@m hide menu--mobile-icon tar">
+    <a id="menu-button-mobile" class="menu__item button menu-button" title="Mobile Menu">
+        <i class="icon icon-menu"></i>
+    </a>
+    <a id="close-button-mobile" class="menu__item hideim button close-button" title="Close">
+      <i class="icon icon-close"></i>
+    </a>
+  </div>
+  </nav>
+</div><div class="menu__search">
+  <div class="search hidden-sm">
+    <form action="https://search.rice.edu" name="gs" method="get">
+      <label class="hidden" for="p">Search Form</label>
+      <input class="search-box" name="q" type="text" id="p" title="search engine" aria-label="Search Terms" size="20" maxlength="255" placeholder="Search...">
+      <button title="Search" class="search-button" type="submit" name="tab" value="Search"></button>
+    </form>
+  </div>
+</div>
+  	</div>
+	</header>
+
+
+<main role="main">
+
+  
+
+    <div>
+    <div id="block-adm-rice-content">
+  
+    
+      <div class="views-element-container"><div class="js-view-dom-id-5910ad8d5ff9a3e9b51b6055fa588221a18a24055e5cedb2ead14243f0c48afe">
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div><div id="block-adm-rice-home">
+  
+    
+      <div id="block-homeheroimage">
+  
+    
+        <div class="hero">
+      <div class="hero__image pr">
+        <div class="image-background pa" style="background-image: url('/sites/default/files/2019-06/rice-hero-drone-birdseye-campus.jpg');"></div>
+      </div>
+    </div>
+  </div><div id="block-adm-rice-homecallout">
+  
+    
+        <div class="title tac">
+      <div class="title__content grid-mw--1200">
+        <h2 class="h6">RECOGNIZING RICE</h2>        <h1><strong>Brand </strong>Standards</h1>
+        <hr>                <p class="body body-large body@m-medium">The visual identity of Rice is built around the historic Athenian owl shield, representing honor, influence and wisdom, with two chevrons for the families of Rice and Houston. This mark is the most recognizable aspect of the Rice brand.</p>      </div>
+    </div>
+  </div><div class="views-element-container" id="block-adm-rice-views-block-frontpage-page-card-grid">
+  
+    
+      <div><div class="js-view-dom-id-47cce82378025f01d037d3fc6bae80c7019748ceaed299c1cf96a6ec63d0c8dd">
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="container">
+  
+  
+  
+  <div class="grid-3 grid@m">
+  <div data-history-node-id="1" role="article" about="/university-logos" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-06/official-logos-400px-square.jpg.jpeg?itok=wKxjGdyo');"></div>
+    <a class="panel__group"  href="/university-logos">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>University</strong><br />
+Logos
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Logo, Usage and Extended Identity</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div><div data-history-node-id="2" role="article" about="/logo-lockups" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-05/160513_Commencement_fitlow_041_0.png.jpeg?itok=GfGkyMqy');"></div>
+    <a class="panel__group"  href="/logo-lockups">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>Logo</strong><br />
+Lockups
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Lockups, Design Elements and Standards</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div><div data-history-node-id="3" role="article" about="/design-elements" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-05/160108_Foggy_Morning0117_2.png.jpeg?itok=TDPRcfsL');"></div>
+    <a class="panel__group"  href="/design-elements">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>Design </strong><br />
+Elements
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Inspired by the colors of campus</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div><div data-history-node-id="6" role="article" about="/film-and-photography" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-06/film-photo-400px-square.jpg.jpeg?itok=YdiHM0J9');"></div>
+    <a class="panel__group"  href="https://photos.rice.edu/" target="_blank">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>Film and</strong><br />
+Photography
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Unconventional Online</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div><div data-history-node-id="26" role="article" about="/verbal-identity" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-06/170222_Stock_fitlow_433_0.png.jpeg?itok=241sMr9Q');"></div>
+    <a class="panel__group"  href="/verbal-identity">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>Verbal</strong><br />
+Identity
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Communicate with Confidence</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div><div data-history-node-id="31" role="article" about="/identity-usage" class="col">
+
+  
+  
+
+  
+  <div class="panel panel--featured image-zoom">
+    <div class="image-background" style="background-image: url('/sites/default/files/styles/pa/public/2019-06/Academic_Quad_Fog0031.png.jpeg?itok=i2T-AaaZ');"></div>
+    <a class="panel__group"  href="/identity-usage">
+      <div class="overlay overlay--ultraDark overlay--animate">
+        <div class="panel__content overlay__content overlay__content--bottomLeft">
+          <h2>  <strong>Identity</strong><br />
+Usage
+</h2>
+            <span class="panel__link link">
+	<span class="link__text">Imagery from Rice</span>
+</span>
+
+        </div>
+      </div>
+    </a>
+  </div>
+</div>  </div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div><div class="views-element-container" id="block-views-block-frontpage-link-block-grid-3">
+  
+    
+      <div><div class="js-view-dom-id-fdebfe4d34972552a2e7905c044a5407b383e9f155806284826028687e73790a">
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="container mv-5">
+  <div class="grid-h">
+          <div class="grid-mw--1380">
+                <div class="grid-3 grid@m grid-hg grid-vg">
+          <div data-history-node-id="8" role="article" about="/node/8" class="col">
+
+  
+  
+  
+    
+  <a href="/academic-logos"  class="link-card link--block">
+    <div class="link__content">
+      <h5 class="link__title">
+            <div><em>Download<br />Academic Logos</em></div>
+      </h5>
+    </div>
+  </a>
+</div><div data-history-node-id="96" role="article" about="/node/96" class="col">
+
+  
+  
+  
+    
+  <a href="/administration-logos"  class="link-card link--block">
+    <div class="link__content">
+      <h5 class="link__title">
+            <div><em>Download<br />Administration Logos</em></div>
+      </h5>
+    </div>
+  </a>
+</div><div data-history-node-id="101" role="article" about="/node/101" class="col">
+
+  
+  
+  
+    
+  <a href="https://rice.box.com/s/39km9sbzuc7ni9dlziyt56cublkl2591" target="_blank" class="link-card link--block">
+    <div class="link__content">
+      <h5 class="link__title">
+            <div><em>Download<br />
+University Logos</em></div>
+      </h5>
+    </div>
+  </a>
+</div>        </div>
+              </div>
+      </div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div><div id="block-adm-rice-homehighlight2">
+  
+    
+        <div class="title--highlight grid-m grid-m@m-v grid-m@m-rsh">
+      <div class="grid-mw--1080">
+        <p class="body body-large body@m-medium">
+          Rice University’s official logos consist of the Rice University wordmark and the shield logo, which have been paired together in multiple configurations to aid in their application across a variety of media.
+        </p>
+      </div>
+    </div>
+  </div><div id="block-adm-rice-homethisisrice">
+  
+    
+        <div class="callout callout--inset">
+      <div class="callout__content grid-mw--1200">
+        <h3>This Is Rice</h3>
+
+<p>A university on an inspired pursuit of the unknown. Our mission is to pursue pathbreaking research, provide unsurpassed teaching and, through that knowledge and discovery, contribute to the betterment of our world. We work together to achieve what some think is unachievable.</p>
+
+<p><em><strong>This is unconventional wisdom. This is Rice University.</strong></em></p>
+      </div>
+    </div>
+  </div><div id="block-adm-rice-homeuniversityidentity">
+  
+    
+        <div class="mt-5 mb-5">
+      <h1 class="title tac small@m"><strong>University</strong> Identity</h1>
+    </div>
+  </div><div class="views-element-container" id="block-adm-rice-views-block-university-identity-list-primary">
+  
+    
+      <div><div class="js-view-dom-id-03964eb51dc58559af2ab93c4deb306c04869f65274141445fc93c94fa16aec5">
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="container color-bg-white mb-5 mb@m-rs">
+  <div class="grid-mw--1380">
+    <div class="iso-layout grid-3 grid@m grid-mh grid-m@m-h-rs grid-hg grid-hg-collapse grid-hg-collapse@m-rs grid-hg@m-rs mt-5 mt@m-rs">
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="11" role="article" about="/node/11">
+
+  
+  
+  
+      
+            <div><h4>University</h4>
+
+<h3><strong>Logos</strong></h3></div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/official-logos#paragraph-60" ><span>RICE SHIELD</span></a></li>
+              <li class="list__item"><a href="/official-logos#paragraph-65" ><span>RICE WORDMARKS</span></a></li>
+              <li class="list__item"><a href="/official-logos#paragraph-66" ><span>UNIVERSITY LOCKUP</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="12" role="article" about="/node/12">
+
+  
+  
+  
+      
+            <div><h4>Identity</h4>
+
+<h3><strong>Usage</strong></h3></div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/identity-usage#paragraph-33" ><span>GENERAL USAGE GUIDELINES</span></a></li>
+              <li class="list__item"><a href="/identity-usage#paragraph-35" ><span>MINIMUM SIZE</span></a></li>
+              <li class="list__item"><a href="/identity-usage#paragraph-38" ><span>MINIMUM CLEAR SPACE</span></a></li>
+              <li class="list__item"><a href="/identity-usage#paragraph-43" ><span>EXTERNAL USE</span></a></li>
+              <li class="list__item"><a href="/identity-usage#paragraph-87" ><span>INCORRECT USE</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="13" role="article" about="/node/13">
+
+  
+  
+  
+      
+            <div><h4>Extended</h4>
+
+<h3><strong>Identity</strong></h3></div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/extended-identity#paragraph-76" ><span>ATHENIAN OWL</span></a></li>
+              <li class="list__item"><a href="/extended-identity#paragraph-79" ><span>UNIVERSITY SEAL</span></a></li>
+              <li class="list__item"><a href="/extended-identity#paragraph-82" ><span>RICE ATHLETICS</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+          </div>
+  </div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div><div id="block-adm-rice-homeourvisualfoundation">
+  
+    
+        <div class="callout callout--inset">
+      <div class="callout__content grid-mw--1200">
+        <h3>Our Visual Foundation</h3>
+
+<p>Our guidelines include standards for all internal and external media, including publications, advertisements, web-based communications and collateral materials — plus templates for PowerPoint presentations. </p>
+
+<p><strong><em>Use of the identity standards aligns and strengthens all of Rice — both on and off campus.</em></strong></p>
+
+      </div>
+    </div>
+  </div><div id="block-adm-rice-homeidentitysystem">
+  
+    
+        <div class="mt-5 mb-5">
+      <h1 class="title tac small@m"><strong>Identity </strong>System</h1>
+    </div>
+  </div><div class="views-element-container" id="block-adm-rice-views-block-identity-system-list-primary">
+  
+    
+      <div><div class="js-view-dom-id-0d8787ef5edfa3ed2eb993c2c78c1555a09cb236e4bdfdc990a70b82c7c2986b">
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="container color-bg-white mb-5 mb@m-rs">
+  <div class="grid-mw--1380">
+    <div class="iso-layout grid-3 grid@m grid-mh grid-m@m-h-rs grid-hg grid-hg-collapse grid-hg-collapse@m-rs grid-hg@m-rs mt-5 mt@m-rs">
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="14" role="article" about="/node/14">
+
+  
+  
+  
+      
+            <div><h4>Logo</h4>
+
+<h3><strong>Lockups</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/logo-lockups#paragraph-45" ><span>LOCKUP SYSTEM</span></a></li>
+              <li class="list__item"><a href="/logo-lockups#paragraph-48" ><span>FORMAL OR CASUAL</span></a></li>
+              <li class="list__item"><a href="/logo-lockups#paragraph-53" ><span>PARENT AND CHILD USAGE</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="15" role="article" about="/node/15">
+
+  
+  
+  
+      
+            <div><h4>Design</h4>
+
+<h3><strong>Elements</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/design-elements#paragraph-114" ><span>BRAND TYPEFACES</span></a></li>
+              <li class="list__item"><a href="/design-elements#paragraph-136" ><span>RICE COLOR PALETTE</span></a></li>
+              <li class="list__item"><a href="/design-elements#paragraph-185" ><span>FILM AND PHOTOGRAPHY</span></a></li>
+              <li class="list__item"><a href="https://rice.photoshelter.com/galleries/C0000Xb73SJ21i_U/Rice-University-Public-Portal" target="_blank"><span>PHOTO GALLERY </span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="16" role="article" about="/node/16">
+
+  
+  
+  
+      
+            <div><h4>Branding</h4>
+
+<h3><strong>Tool Kits</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="https://welcome.rice.edu/filming-and-photography-rice" target="_blank"><span>PHOTOGRAPHY AND FILM</span></a></li>
+              <li class="list__item"><a href="/identity-usage" ><span>IDENTITY USAGE</span></a></li>
+              <li class="list__item"><a href="/design-elements" ><span>DESIGN ELEMENTS</span></a></li>
+              <li class="list__item"><a href="/extended-identity" ><span>EXTENDED IDENTITY</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+          </div>
+  </div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div><div id="block-adm-rice-homespeakingforrice">
+  
+    
+        <div class="callout callout--inset">
+      <div class="callout__content grid-mw--1200">
+        <h3>Speaking for Rice</h3>
+
+<p>We have very little interest in putting words in anyone’s mouth — especially when communicating about our community here at Rice. As such, this verbal identity guide is not intended to offer verbatim messages you need to memorize. Rather, this resource exists to provide you with the tools and insight to craft your own messages that contribute to the collective identity of Rice.</p>
+
+      </div>
+    </div>
+  </div><div id="block-adm-rice-homeverbalidentity">
+  
+    
+        <div class="mt-5 mb-5">
+      <h1 class="title tac small@m"><strong>Verbal </strong>Identity</h1>
+    </div>
+  </div><div class="views-element-container" id="block-adm-rice-views-block-verbal-identity-list-primary">
+  
+    
+      <div><div class="js-view-dom-id-e2a69606155a19ebc731d7f3450d79a74d0b28b05126c03e0f83aa6d1583a07b">
+  
+  
+  
+
+  
+  
+  
+  
+  <div class="container color-bg-white mb-5 mb@m-rs">
+  <div class="grid-mw--1380">
+    <div class="iso-layout grid-3 grid@m grid-mh grid-m@m-h-rs grid-hg grid-hg-collapse grid-hg-collapse@m-rs grid-hg@m-rs mt-5 mt@m-rs">
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="17" role="article" about="/node/17">
+
+  
+  
+  
+      
+            <div><h4>Messaging</h4>
+
+<h3><strong>Guidelines</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/our-brand" ><span>USING THESE GUIDELINES</span></a></li>
+              <li class="list__item"><a href="/verbal-identity" ><span>VERBAL IDENTITY</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="18" role="article" about="/node/18">
+
+  
+  
+  
+      
+            <div><h4>Mission</h4>
+
+<h3><strong>and Values</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/mission-values#block-adm-rice-missionvaluesstatement" ><span>OUR MISSION</span></a></li>
+              <li class="list__item"><a href="/mission-values#block-adm-rice-missionvaluesvalues" ><span>OUR VALUES</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+              <div class="iso-item col"><div class="accordion accordion--list ph@m-5 pv-3 border@m-t"  data-history-node-id="19" role="article" about="/node/19">
+
+  
+  
+  
+      
+            <div><h4>Communication</h4>
+
+<h3><strong>Touchpoints</strong></h3>
+</div>
+      
+  
+      <hr class="hide@m">
+  
+    
+      <ul class="accordion__block list list--primary js-accordion">
+              <li class="list__item"><a href="/position-messaging#block-adm-rice-positionmessagingcallout" ><span>UNCONVENTIONAL WISDOM</span></a></li>
+              <li class="list__item"><a href="/position-messaging#paragraph-137" ><span>INTANGIBLE ATTRIBUTES</span></a></li>
+              <li class="list__item"><a href="/position-messaging#paragraph-142" ><span>KEY THEMES</span></a></li>
+                </ul>
+    <a class="accordion__button js-accordion-button" name="View-More"></a>
+</div></div>
+          </div>
+  </div>
+</div>
+  
+  
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+  </div><div id="block-adm-rice-footerstillneedhelp">
+  
+    
+        <div class="title title--tall title--reverse">
+      <div class="grid grid-mw--1080">
+        <h1 class="tac"><strong>Still need help?</strong></h1>
+        <hr class="short">
+                          <div class="body tac">
+            <p>We would be glad to assist you. <a href="mailto:pubaffrs@rice.edu">Start Here &gt;</a></p>
+
+          </div>
+              </div>
+    </div>
+  </div>
+  </div>
+
+
+</main>
+
+<footer class="footer">
+  <div class="footer__content grid">
+    <div class="tal tac@l col col-5 col@xl-3 col@ml">
+      <a class="footer__logo" href="/"><img class="image-responsive" src="/themes/custom/adm_rice/assets/img/Rice_University_Horizontal_Blue.svg" alt="Rice University Logo"></a>
+    </div>
+    <div class="footer--content-box col@ml">
+        <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+<nav class="footer__menu menu menu--footer tal tac@m">
+                  <a href="/our-brand" class="menu__item footer__menu">Our Brand</a>
+            <a href="/verbal-identity" class="menu__item footer__menu">Verbal Identity</a>
+            <a href="/mission-values" class="menu__item footer__menu">Mission and Values</a>
+            <a href="/identity-usage" class="menu__item footer__menu">Identity Usage</a>
+            <a href="/extended-identity" class="menu__item footer__menu">Extended Identity</a>
+      
+  <a href="#" class="menu__item fr">BACK TO TOP</a>
+</nav>
+
+
+
+  </nav>
+<hr class="hide block@ml">
+      <div class="footer__address">
+      <p>6100 Main St., Houston, TX 77005-1827 <span class="hide@s">|</span></p>
+
+<p>Mailing Address: P.O. Box 1892, Houston, TX 77251-1892 <span class="hide@s">|</span></p>
+
+<p>713-348-0000 | <a href="https://privacy.rice.edu/"><strong>Privacy Policy</strong></a> | <a href="/campus-carry">Campus Carry</a></p>
+
+    </div>
+  
+    </div>
+  </div>
+</footer>
+
+
+  </div>
+
+    
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"8d12ce48e6c78fcd0f0f0c1bc7999cee502545308925d422c27fc3cfee314533"}}</script>
+<script src="/sites/default/files/js/js_JUwIlOhJra3q90LWgwMBrLVyB9FMnlLRVgOqIzLiU80.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_vUqQVunc0we7qVf179Kv1iFUUOOwB4EYHi_y-v47mQk.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+<script src="https://cdn.plyr.io/3.5.6/plyr.polyfilled.js"></script>
+<script src="/sites/default/files/js/js_TEoQQUrnz5Fo2p_5pTt9mE1DiM2AmVxoqZNGIOxGWbU.js"></script>
+
+  </body>
+</html>
+s="last expanded" data-menu-location="main-menu-2" data-menu-group="academics" data-link-order="3"><div class="col-2 omega"><h2><a href="/summer" class="heading-link">Summer Sessions</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="summer-sessions"><a href="/academics/summer-sessions/high-school">Summer Courses - High School</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="summer-sessions"><a href="/academics/summer-sessions/admitted">Summer Courses - Admitted Students</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="expanded nav-item" data-menu-location="main-menu-1"><a href="/research" data-dropdown="research">Research</a><div class="dropdown research-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="research" data-link-order="0"><div class="col-3"><a href="/research/labs-centers-and-institutes">Labs, Centers and Institutes</a></div></li><li class="expanded" data-menu-location="main-menu-2" data-menu-group="research"><div class="col-2"><h2><a href="/graduate-research" class="heading-link">Graduate Research</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="graduate-research"><a href="/research/graduate-research/science-flash">Science in a Flash</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="graduate-research"><a href="/research/graduate-research/three-minute-thesis">Three Minute Thesis</a></li></ul></h2></div></li><li class="expanded" data-menu-location="main-menu-2" data-menu-group="research"><div class="col-2"><h2><a href="/undergraduate-research" class="heading-link">Undergraduate Research</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/undergraduate-research" title="">Undergraduate Research Overview</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/research/undergraduate-research/freshman-research-courses">Freshman Research Courses</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/research/undergraduate-research/getting-started">Getting Started</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/research/undergraduate-research/sharing-your-work">Sharing Your Work</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/research/undergraduate-research/undergraduate-research-profiles">Undergraduate Research Profiles</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="undergraduate-research"><a href="/undergraduate-research-talks">Undergraduate Research Talks</a></li></ul></h2></div></li><li class="leaf" data-menu-location="main-menu-2" data-menu-group="research"><div class="col-2"><a href="/research/scientific-image-contest">Scientific Image Contest</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="research" data-link-order="4"><div class="col-2 omega"><a href="/research/enquiry-magazine">Enquiry Magazine</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/news" title="">News</a></li><li class="last expanded nav-item" data-menu-location="main-menu-1"><a href="/support" data-dropdown="support">Support</a><div class="dropdown support-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><li class="first leaf" data-menu-location="main-menu-2" data-menu-group="support" data-link-order="0"><div class="col-2 alpha"><a href="/support" title="">Support</a></div></li><li class="leaf" data-menu-location="main-menu-2" data-menu-group="support"><div class="col-2"><a href="/support/engage">Engage</a></div></li><li class="last leaf" data-menu-location="main-menu-2" data-menu-group="support" data-link-order="2"><div class="col-2 omega"><a href="https://online.alumni.rice.edu/default.aspx?page=GIVEUserGift" title="">Give Now</a></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li></ul></div></div><!--//End slidingDiv--></div><!--//End Row --></div><!--//End mobilenavouter--></nav>  </div>
+</div>
+<div id="block-block-36" class="block block-block">
+
+    
+  <div class="content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.logo .school-full-name {
+   font-weight: 400;
+    font-size: 1.15em;
+    margin-top: -20px;
+}
+/*--><!]]>*/
+</style>  </div>
+</div>
+<div id="block-block-46" class="block block-block">
+
+    
+  <div class="content">
+    <script async="async" src="https://gradadmissions.rice.edu/ping">
+<!--//--><![CDATA[// ><!--
+/**/
+//--><!]]>
+</script>  </div>
+</div>
+</header>
+<!-- REGION: HEADER (END)-->
+<!-- REGION: HERO -->
+
+<div class="underhero container">
+  <div class="row">
+      </div>
+</div>
+<!-- REGION: HERO (END)-->
+
+  <section>
+    <div class="content-item">
+
+      
+            <div id="featured-content" class="col-12 omega">
+        <a id="skiptarget"></a>
+
+        
+                  <div class="tabs">
+                      </div>
+        
+        
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-display panel-2col-stack-stagger clearfix clear selfclear" >
+
+      <div class="panel-panel panel-col-top clearfix clear selfclear">
+      <div class="inside">
+        <div class="panel-pane pane-block pane-block-21 pane-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.panel-col-top .panel-separator {margin-bottom: 0;}
+.content-item{padding:0 !important;}
+.panel-2col-stack-stagger .panel-separator {
+    margin: 0;
+}
+
+.events-list .views-field-field-event-extra {
+    display: inline-block;
+    font-size: .7em;
+    font-weight: 500;
+    font-style: normal;
+    color: #333333;
+    margin-left: 120px;
+}
+
+.events-list .views-field-field-date, 
+.events-list .views-field-title, 
+.events-list .views-field-field-location{
+ margin-left:0px;
+}
+
+.hero-slider .slick--skin--fullwidth .views-field-field-image .field-content {
+    min-height: auto;
+    max-height: 450px;
+}
+.hero-slider .slick--skin--fullwidth .views-field-field-image .field-content a {
+    min-height: 50vw;
+    max-height: 450px;
+}
+
+.slick-slider {
+    margin-bottom: 0px;
+}
+
+.quick-facts {
+    background-color: #f1f1f1 !important;
+    padding: 15px 0;
+    margin-bottom: 1em;
+}
+
+.hero-slider .slick--skin--fullwidth .slick-dots li button:before {
+    font-size: 1rem !important;
+}
+
+@media handheld, only screen and (max-width: 767px) {
+
+  /* cssgrid.net - mobile presets */
+  [class*="col-"] {
+    padding-left: 0;
+    padding-right: 0;
+}
+/*--><!]]>*/
+</style><!-- Drupal requires content or the block won't print: --><p class="sr-only"> </p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views pane-hero-slider"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-hero-slider view-id-hero_slider view-display-id-block hero-slider view-dom-id-c8ec70aa4517907c399bb90e6e8f358c">
+      
+  
+  
+  
+      <div class="view-content omega">
+            <div class="slick slick--view--hero-slider slick--view--hero-slider--block slick--skin--fullwidth slick--optionset--hero-slider unslick" id="hero-slider">
+  
+                              
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="http://news.rice.edu/2019/04/11/how-will-tropical-mammals-react-to-rising-temperatures-2/"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/image_16_9__1920x1080_/public/heroslides/Monkey_hero.jpg?itok=A6Ep1mAB" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-slider-title">        <div class="field-content"><a href="http://news.rice.edu/2019/04/11/how-will-tropical-mammals-react-to-rising-temperatures-2/">How will tropical mammals react to rising temperatures?</a></div>  </div>            
+                      
+  </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div>
+<div class="container quick-facts bg-off-blue">
+  <div class="row">
+    <div id="block-views-quick-facts-quick-facts" class="block block-views col-12 omega">
+
+                <h3>Quick Facts</h3>
+          
+      <div class="content">
+        <div class="view view-quick-facts view-id-quick_facts view-display-id-quick_facts quick-facts view-dom-id-8e6836b357e8b832f12e7bc5ec28edb7">
+      
+  
+  
+  
+      <div class="view-content omega">
+            <div class="slick slick--view--quick-facts slick--view--quick-facts--quick-facts slick--skin--boxed slick--optionset--image-carousel image-carousel slick--carousel slick--float slick--ondemand" id="slick-views-quick-facts-1">
+      <div id="slick-views-quick-facts-1-slider" class="slick__slider" data-slick="{&quot;focusOnSelect&quot;:true,&quot;slidesPerRow&quot;:5,&quot;slide&quot;:&quot;.slick__slide&quot;,&quot;slidesToShow&quot;:5,&quot;slidesToScroll&quot;:5,&quot;cssEase&quot;:&quot;ease-in-out&quot;,&quot;responsive&quot;:[{&quot;breakpoint&quot;:769,&quot;settings&quot;:{&quot;focusOnSelect&quot;:true,&quot;infinite&quot;:false,&quot;slidesPerRow&quot;:3,&quot;slidesToShow&quot;:3,&quot;slidesToScroll&quot;:3,&quot;cssEase&quot;:&quot;ease-in-out&quot;}},{&quot;breakpoint&quot;:480,&quot;settings&quot;:{&quot;focusOnSelect&quot;:true,&quot;cssEase&quot;:&quot;ease-in-out&quot;}}]}">
+  
+          <div class="slick__slide slide slide--0 slide--caption--bottom">      <div class="slide__content">            <div class="slick-media media media--image">
+<img class="slick__image lazy" width="360" height="360" alt="Enrollment 2018" title="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Enrollment%202018_0.png" /><noscript><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Enrollment%202018_0.png" width="360" height="360" alt="Enrollment 2018" title="" /></noscript>
+</div>
+            
+                </div>  </div>          <div class="slick__slide slide slide--1 slide--caption--bottom">      <div class="slide__content">            <div class="slick-media media media--image">
+<img class="slick__image lazy" width="360" height="360" alt="Forbes - Top STEM Colleges ranks Rice #5" title="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Quick-Facts_Forbes2.png" /></div>
+            
+                </div>  </div>          <div class="slick__slide slide slide--2 slide--caption--bottom">      <div class="slide__content">            <div class="slick-media media media--image">
+<img class="slick__image lazy" width="360" height="360" alt="Nobel Prizes Winner (3)" title="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Quick-Facts_Nobel2.png" /></div>
+            
+                </div>  </div>          <div class="slick__slide slide slide--3 slide--caption--bottom">      <div class="slide__content">            <div class="slick-media media media--image">
+<img class="slick__image lazy" width="288" height="288" alt="More than 60% of Natural Sciences majors are engaged in undergraduate research" title="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Quick-Facts_UG-research2.png" /></div>
+            
+                </div>  </div>          <div class="slick__slide slide slide--4 slide--caption--bottom">      <div class="slide__content">            <div class="slick-media media media--image">
+<img class="slick__image lazy" width="360" height="360" alt="" title="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/Quick-Facts_Owl_2019.png" /></div>
+            
+                </div>  </div>    
+      </div>
+    <nav class="slick__arrow">
+      <button type="button" data-role="none" class="slick-prev" aria-label="previous">Previous</button>            <button type="button" data-role="none" class="slick-next" aria-label="next">Next</button>    </nav>
+  </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-separator"></div>
+  
+<div class="container">
+  <div class="row">
+    <div id="block-views-articles-news-list" class="block block-views col-12 omega">
+
+                    <h3>News</h3>
+            
+      <div class="content">
+        <div class="view view-articles view-id-articles view-display-id-news_list news-list view-dom-id-8a1502cfbd95a3a893425f366eb09a48">
+
+      
+  
+      <div class="view-header col-8">
+      <div class="view view-articles view-id-articles view-display-id-news_slideshow news-slideshow view-dom-id-cc96fcfb3928cb2c87aa9930ef2d2a09">
+      
+  
+  
+  
+      <div class="view-content omega">
+            <div class="slick slick--view--articles slick--view--articles--news-slideshow slick--skin--default slick--optionset--news-slideshow unslick" id="slick-views-articles-2">
+  
+                      <div class="slide__media">      <div class="slick-media media media--image">
+<a href="/news/rice-mourns-geologist-albert-bally"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/slideshow_image/public/0805_BALLY-b.jpg?itok=s3vVjndc" width="745" height="418" alt="Albert Bally" /></a></div>
+            </div>
+                      <div class="slide__caption">
+          
+                      
+                          <h2 class="slide__title">  <span class="title"><a href="/news/rice-mourns-geologist-albert-bally">Rice mourns geologist Albert Bally</a></span>
+</h2>
+            
+            
+                          <div class="slide__description"><p><a class="addthis_button_facebook_like" layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" size="medium"></a><a class="addthis_counter addthis_pill_style"></a>Rice University geologist Albert Bally, a beloved teacher and mentor, pioneer in the... <a href="/news/rice-mourns-geologist-albert-bally" class="views-more-link">Read more</a></div>
+            
+            
+                              </div>
+                              
+  </div>
+      </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+      <div class="view-content col-4 omega">
+        <div class="views-row views-row-1 views-row-odd views-row-first list-item">
+      
+  <div class="views-field views-field-field-image">    <span class="views-label views-label-field-image sr-only">Image: </span>    <div class="field-content"><a href="/news/single-molecules-can-take-heat"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/list_thumbnail__120x67_/public/0722_MOLECULE-B.jpg?itok=mA5RPU0u" width="120" height="67" alt="Microscope images show the tiny probe used to measure thermal conductance through a single molecule. (Credit: Courtesy of Longji Cui)" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content">  <span class="title"><a href="/news/single-molecules-can-take-heat">Single molecules can take the heat</a></span>
+</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even list-item">
+      
+  <div class="views-field views-field-field-image">    <span class="views-label views-label-field-image sr-only">Image: </span>    <div class="field-content"><a href="/news/physicists-find-first-possible-3d-quantum-spin-liquid"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/list_thumbnail__120x67_/public/0715_CE227-b.jpg?itok=9vZYa4b8" width="120" height="67" alt="A 3D representation of the spin-excitation continuum of cerium zirconium pyrochlore" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content">  <span class="title"><a href="/news/physicists-find-first-possible-3d-quantum-spin-liquid">Physicists find first possible 3D quantum spin liquid</a></span>
+</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd list-item">
+      
+  <div class="views-field views-field-field-image">    <span class="views-label views-label-field-image sr-only">Image: </span>    <div class="field-content"><a href="/news/physicists-find-first-possible-3d-quantum-spin-liquid-0"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/list_thumbnail__120x67_/public/0715_CE227-b_0.jpg?itok=BJjKsPC_" width="120" height="67" alt="A 3D representation of the spin-excitation continuum of cerium zirconium pyrochlore" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content">  <span class="title"><a href="/news/physicists-find-first-possible-3d-quantum-spin-liquid-0">Physicists find first possible 3D quantum spin liquid</a></span>
+</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even list-item">
+      
+  <div class="views-field views-field-field-image">    <span class="views-label views-label-field-image sr-only">Image: </span>    <div class="field-content"><a href="/news/moon-forming-disk-discovered-around-distant-planet"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/list_thumbnail__120x67_/public/0715_DUSTDISK-b4_0.jpg?itok=BGXOoQZE" width="120" height="67" alt="color-enhanced image showing a disk of gas and dust around exoplanet PDS 70 c" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content">  <span class="title"><a href="/news/moon-forming-disk-discovered-around-distant-planet">Moon-forming disk discovered around distant planet</a></span>
+</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last list-item">
+      
+  <div class="views-field views-field-field-image">    <span class="views-label views-label-field-image sr-only">Image: </span>    <div class="field-content"><a href="/news/moon-forming-disk-discovered-around-distant-planet-0"><img src="https://naturalsciences.rice.edu/sites/g/files/bxs1006/f/styles/list_thumbnail__120x67_/public/0715_DUSTDISK-b4_1.jpg?itok=kIzO8_-e" width="120" height="67" alt="color-enhanced image showing a disk of gas and dust around exoplanet PDS 70 c" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content">  <span class="title"><a href="/news/moon-forming-disk-discovered-around-distant-planet-0">Moon-forming disk discovered around distant planet</a></span>
+</span>  </div>  </div>
+            <div class="button-container">
+        <a href="/news" class="button button-full-width button-white">See All News</a>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+    </div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-56 pane-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.share-news { 
+background: #004080;
+padding-top: 20px;
+}
+.share-news h2{
+  color:white;
+}
+.chare-news .button-container {
+    margin-top: 10px;
+}
+/*--><!]]>*/
+</style><div class="share-news">
+<div class="container">
+<div class="row">
+<div class="col-8">
+				<center>
+<h2>
+						Share Your News With Us</h2>
+<p>				</p></center>
+			</div>
+<div class="col-4 omega">
+<div class="button-container">
+					<a class="button button-full-width button-white" href="/social-media-news-submission">Submit News</a></div>
+</div>
+</div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-11 pane-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#heroinforow {display: none;}
+.hero-title h2 {display: none;}
+.social-links {margin-bottom: 10px;}
+.panel-col-top .panel-separator {margin-bottom: 0;}
+.content-item{padding:0 !important;}
+.tabs{padding:0 !important; border:none !important;}
+.ui-tabs{padding:0;}
+.ui-widget-header{border:none;}
+/*--><!]]>*/
+</style><!-- Drupal requires content or the block won't print: --><p class="sr-only"> </p>
+  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  
+  <div class="container clearfix clear selfclear">
+    <div class="row">
+
+      <div class="panel-panel panel-col-first col-6">
+        <div class="inside">
+                  </div>
+      </div>
+
+      <div class="panel-panel panel-col-last col-6 omega">
+        <div class="inside">
+                  </div>
+      </div>
+
+    </div>
+  </div>
+
+      <div class="panel-col-bottom panel-panel clearfix clear selfclear">
+      <div class="inside">
+        <div class="panel-pane pane-block pane-block-26 pane-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+.lwcw .events-list .important-events .lw_events_header_date {
+	display: none; }
+
+.lwcw .events-list .important-events .date-wrapper {
+  display: block;
+  color: #ffffff;
+    font-weight: bold;
+    font-size: 1.25em; }
+
+.lwcw .events-list .important-events .lw_events_day {
+  background: none;
+  box-shadow: none;
+  padding: 0; }
+
+.lwcw .events-list .important-events .views-row {
+  background: #FFFFFF;
+  margin-bottom: 1em;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  margin: 0 2px 1em 2px;
+  }
+
+.lwcw .events-list .important-events .lw_events_day .views-field {
+  margin-left: 0; }
+
+.lwcw .rice-events-list .list-wrapper {
+  padding-left: 1em; }
+
+.lwcw .rice-events-list .views-row {
+  background: none;
+  margin: 0;
+  border-left: 1px solid #888;
+  margin-left: 132px; }
+  .lwcw .rice-events-list .views-row:first-of-type {
+    padding-top: 0; }
+
+.lwcw .rice-events-list .date-wrapper {
+  display: none; }
+
+.lwcw .list-item.add-new {
+  text-align: center; }
+
+.rice-events-list .lw_events_header_date {
+  border: none; }
+
+ .events-list .title, .events-list .date-time, .events-list .location {
+  margin-left: 0 !important; }
+/*--><!]]>*/
+</style><div class="container" style="background:#f9f9f9; padding: 40px 20px;">
+<div class="row">
+<div class="col-4">
+<h2>
+				Featured Events</h2>
+<div class="lwcw" data-options="id=101&amp;format=html">
+				 </div>
+</div>
+<div class="col-8 omega">
+<h2>
+				Department Events</h2>
+<div class="lwcw" data-options="id=100&amp;format=html">
+				 </div>
+<!--<div class="button-container"><p>				<a class="button button-full-width button-white" href="/events">See All Events</a></div>
+<p>-->
+		</div>
+</div>
+</div>
+<script type="text/javascript" id="lw_lwcw" src="https://rice.lwcal.com/livewhale/theme/core/scripts/lwcw.js"></script>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  
+</div>
+  </div>
+</div>
+  </div>
+
+      </div>
+
+      
+    </div>
+  </section>
+
+<!-- REGION: FOOTER -->
+<a href="#" class="cd-top">Top</a>
+<footer>
+  <div class="container">
+    <div id="footer-logo" class="row">
+      <div class="col-12 alpha">
+        <img src="/sites/all/themes/custom/ricestark/images/rice-logo.jpg" alt="Rice Logo - Shield with the word Rice next to it." width="120">
+        <p class="address">
+          6100 Main St., Houston, TX 77005-1827 <br>
+          Mailing Address: P.O. Box 1892 Houston, TX 77251-1892<br>
+          713-348-0000&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://privacy.rice.edu">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- REGION: FOOTER (END)-->
+    
+        <script id="tools" type="text/javascript" async="async" defer="defer" src="/sites/all/themes/custom/ricestark/scripts/tools5.js"></script>
+
+  </body>
+</html>

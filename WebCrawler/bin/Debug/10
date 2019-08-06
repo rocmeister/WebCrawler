@@ -1,0 +1,283 @@
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Rice University, Fondren Library EZproxy Login</title>
+<!--
+     NOTE:
+     To include graphics on this page, place the graphics in the public subdirectory
+	 and use links such as:
+     <img src="/public/logo.gif">
+     It is important to use /public/ instead of just public/ since some EZproxy
+     login URLs are not be relative to /
+-->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+<!--Fondren Style-->    
+<LINK href="http://library.rice.edu/~fondren/sites/all/themes/bootstrap/fondren_subtheme/css/style.css" rel="stylesheet" type="text/css">
+  
+    </head>
+<body>
+    
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-4"><a href="http://library.rice.edu" title="Fondren Library Home" target="_blank"><img src="https://library.rice.edu/~fondren/sites/all/themes/fondren_subtheme/templates/Fondren-Library-branded-logo.png" alt="Fondren Logo" border="0" height="72" /></a></div>
+<div class="col-md-8"><h3>EZproxy Login</h3></div>   
+</div>    
+
+<div class="row"><div class="col-md-12" style="background-color:#002469;height:20px;"></div></div>
+
+<div class="row">
+<div class="col-md-4">
+  <p><form action="/login" method="post">
+<input type="hidden" name="url" value="http://firstsearch.oclc.org/FSIP?db=WorldCat&#38;done=http://library.rice.edu/" />
+<label>Rice NetID</label>
+        <input type="text"     name="user" class="form-control form-text required" />
+<label>Rice NetID password</label>
+        <input type="password" name="pass" class="form-control form-text required" /><br />
+        <button type="submit" value="Login" class="btn btn-primary">Login</button>
+</form>
+    </p>
+    <p><a href="http://library.rice.edu/requests/contact-us-report-problem" target="_blank" alt="report a problem" class="btn btn-success" type="button" >Report a Problem with an Online Resource</a></p>
+</div>    
+<div class="col-md-8">
+
+
+<p><strong>ACCESS TO ELECTRONIC RESOURCES: POLICIES AND GUIDELINES</strong><br>
+EZproxy is the preferred option for <a href="http://library.rice.edu/services/campus-access" target="_blank">off-campus access</a> to Rice University's licensed online resources. Licenses with our commercial and scholarly publishers define how the resources may be accessed and used:
+<ul>
+<li>Use should be restricted to academic research and teaching;</li>
+<li>Systematic downloading of resources is prohibited;</li>
+<li>Content should not be made available on servers/websites that are openly accessible, nor should copyright marks be obstructed or removed;</li>
+<li>Use is subject to University policies, including <a href="http://www.professor.rice.edu/professor/Appropriate_Use_of_Computer_Resources.asp?SnID=6141608" target="_blank">Appropriate Use of Computer Resources</a> and <a href="http://www.professor.rice.edu/professor/Intellectual_Property_Policy.asp?SnID=157348334" target="_blank">Intellectual Property Policy</a>.</li>
+</ul>
+</p>
+
+<p>
+<strong>WHAT BROWSER DO I NEED TO USE?</strong><br>
+EZproxy is mostly browser independent, but you should be using the most current version of your favorite browser to get maximum functionality from the databases you use. <strong><em>Disable pop-up blockers in your browser and enable cookies and JavaScript.</em></strong> Go to the download sites of the respective browsers to get a more current or different version, e.g.: <a href="http://www.mozilla.com/firefox/" target="_blank">Mozilla Firefox</a>, <a href="http://www.microsoft.com/windows/internet-explorer/" target="_blank">Internet Explorer</a>, or <a href="http://www.apple.com/safari/" target="_blank">Safari</a>.</p>
+
+<p>
+<strong>EZPROXY AND PROPRIETARY BROWSERS, LIKE AOL</strong><br>
+The current AOL browser does not work with EZproxy or other library proxies. Other proprietary browsers like MSN and Compuserve may not work either. To get around this, AOL and some other users need to download <a href="http://www.mozilla.com/firefox/" target="_blank">Mozilla Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/" target="_blank">Internet Explorer</a>. After installing the second browser, they connect to the Internet with the AOL browser, minimize it, and launch the new browser for database searching with EZproxy.</p>
+
+<p>
+<strong>CAN I USE EZPROXY WITH FREE ISPs?</strong><br>
+Some Internet Service Providers (ISPs) include use of an accelerator, such as NetOne, NetZero, HiSpeed, Google Accelerator, and Firefox DownThemAll, which need to be turned off before EZproxy will work. (Essentially, accelerators are using their own proxy to run things.) You can also download a second browser (see above) to make this work.</p>
+
+<p><strong>ALUMNI AND EZPROXY ACCESS</strong><br>
+Rice alumni with accounts on the Alumni Portal are automatically allowed to access a few of the university's licensed electronic resources through the EZproxy server.  If you are seeing this message, it means that your session with the EZproxy server has expired due to inactivity. To regain access, please re-enter through the Alumni Portal (https://online.alumni.rice.edu) using your alumni login credentials and click again on the link for the digital resources that you are interested in.</p>
+
+<p>
+    <h4>If you are having problems logging into an electronic resource</h4>
+    
+    <p><a href="http://library.rice.edu/requests/contact-us-report-problem" target="_blank" alt="report a problem" class="btn btn-success" type="button" >Report a Problem with an Online Resource</a></p>    
+</div>    
+</div>
+    
+</div>  
+</body>
+</html>
+
+f="/undergraduate-students/academic-policies-procedures/name-changes/">Name Changes</a></li>
+			<li><a href="/undergraduate-students/academic-policies-procedures/registration/">Registration</a></li>
+			<li><a href="/undergraduate-students/academic-policies-procedures/transcript/">Transcript Policies</a></li>
+			<li><a href="/undergraduate-students/academic-policies-procedures/transfer-credit/">Transfer Credit</a></li>
+			<li><a href="/undergraduate-students/academic-policies-procedures/veterans-information/">Veterans Information</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/undergraduate-students/student-services-organizations/">Student Services and Organizations</a></li>
+		<li class="isparent"><a href="/undergraduate-students/rights-responsibilities/">Rights and Responsibilities</a></li>
+		<li class="isparent"><a href="/undergraduate-students/honors-distinctions/">Honors and Distinctions</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/graduate-students/">Graduate Students</a></li>
+	<li class="isparent"><a href="/non-traditional-students/">Non-&#8203;Traditional Students</a></li>
+	<li class="isparent"><a href="/faculty/">Faculty</a></li>
+	<li class="isparent"><a href="/programs-study/">Programs of Study</a></li>
+	<li class="isparent"><a href="/administration-faculty/">Administration and Faculty</a></li>
+	<li class="isparent"><a href="/important-notices/">Important Notices</a></li>
+	<li><a href="/policies/">Policies</a></li>
+	<li><a href="/archive/">Archive</a></li>
+</ul>
+			</nav>
+		</div>
+	</div>
+
+	<div id="right-col">
+		<div id="content" role="main">
+
+			<h1 class="page-title">Grades</h1>
+
+
+
+
+<div id="textcontainer" class="tab_content" role="tabpanel">
+
+<div class="notinpdf onthispage" name="otp1"><div class="otp-title">On This Page</div><ul><li><a href="#text" nav-id="0" otp-id="1" onClick="showSection('text', this);">Pass/Fail Option</a></li><li><a href="#text" nav-id="1" otp-id="1" onClick="showSection('text', this);">Satisfactory/Unsatisfactory</a></li><li><a href="#text" nav-id="2" otp-id="1" onClick="showSection('text', this);">Audit</a></li><li><a href="#text" nav-id="3" otp-id="1" onClick="showSection('text', this);">Grade Symbols</a></li><li><a href="#text" nav-id="4" otp-id="1" onClick="showSection('text', this);">Grade Designations</a></li><li><a href="#text" nav-id="5" otp-id="1" onClick="showSection('text', this);">Grade Points </a></li></ul></div>
+<p>See also <a href="/faculty/grading-guidelines/">Faculty Grading Guidelines</a> and <a href="/faculty/syllabus-standards/">Syllabus Standards</a>.</p>
+<h2 headerid="0" name="text">Pass/Fail Option</h2>
+<p>Undergraduates may register for courses on a Pass/Fail basis. Students:</p>
+<ul>
+	<li>May not take more than one course as a Pass/Fail per semester for each full year of residence (students studying in off-campus programs through Rice are considered to be in residence for the purpose of this rule).</li>
+	<li>May not take more than four courses as Pass/Fail.</li>
+	<li>May not take more than a total of 14 semester hours total as Pass/Fail.</li>
+	<li>May register for only one course as Pass/Fail in a semester.</li>
+	<li>May not take as Pass/Fail a repeatable course previously taken and designated as Pass/Fail.</li>
+	<li>May not take as Pass/Fail those courses used to meet the requirements for their major, minor, or certificate.<strong>*</strong></li>
+	<li>Must designate courses to the Pass/Fail grade mode online, via ESTHER, no later than the posted deadline, usually the end of the 10th week of semester.</li>
+	<li>May not take First-Year Writing-Intensive Seminar (FWIS) courses as Pass/Fail.</li>
+</ul>
+<p>Students may convert a pass/fail course to a graded course by submitting the proper online conversion form, via ESTHER, and must adhere to the pass/fail deadlines as stated in the <a href="https://registrar.rice.edu/calendars" target="_blank">Academic Calendar</a>. Students wishing to designate a course as pass/fail during the summer sessions should see <a href="/undergraduate-students/academic-policies-procedures/registration/">Registration During Summer Sessions</a>.</p>
+<p>Students should be aware that while a grade of P does not affect their grade point average, a grade of F is counted as a failure and is included in their GPA. Students who take a course during the Rice summer session as pass/fail also should be aware that this counts toward their allowable total of four courses. For more information, see <a href="https://registrar.rice.edu/students/reg_pass_fail" target="_blank">The Pass/Fail Option.</a></p>
+<p><strong>*Please Note:</strong> If students have completed Pass/Fail courses that are needed to meet the requirements for their major, minor, or certificate, they should request in writing to the Office of the Registrar that the P grade be replaced with the letter grade earned. Otherwise, the Office of the Registrar will uncover the P grade during the final degree audit process (which begins with day one of the student’s final semester). Once the P is uncovered, it will not be restored; therefore, students should review their Degree Works degree audits carefully to ensure that the courses are applied in their degree audit as expected.</p>
+<h2 headerid="1" name="text">Satisfactory/Unsatisfactory</h2>
+<p>Satisfactory/unsatisfactory courses are those that do not use traditional grading procedures and instead assign a grade of S or U rather than a letter grade. Such courses or labs are designated by the instructor and are, in most cases, graduate level courses. With S/U courses, instructors report the S if the student successfully completes the course, or the U if they have not. Students should be aware that while a grade of S or U does not affect their grade point average, no credit will be awarded if a grade of U is received. Courses with a grade of S will count towards total credits earned.</p>
+<h2 headerid="2" name="text">Audit</h2>
+<p>Students have the option of auditing courses. For auditing students, instructors report either the AUD or the NC grade symbol, the AUD if the student met the audit requirements of the class, or the NC if they have not. There are no credit hours associated with audited courses, and auditing a course does not affect a student's GPA. Request to audit a class or to change from audit to credit or vice versa must be done by the dates and deadlines documented in the posted <a href="https://registrar.rice.edu/calendars/" target="_blank">Academic Calendar</a>. (See Grade Designations <a href="#AUD">AUD</a> and <a href="#NC">NC</a> below.)</p>
+<h2 headerid="3" name="text">Grade Symbols</h2>
+<p>Instructors are required to report a grade for all students whose names appear on the class roster. They grade their students using the following conventional symbols: A+, A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F.</p>
+<h2 headerid="4" name="text">Grade Designations</h2>
+<p>Under certain circumstances, special designations accompany the student’s grade. These designations do not affect the grade point average. The special designations include the following:</p>
+<h3><a id="AUD" name="AUD"></a>AUD (“Audit”)</h3>
+<p>This designation is only used for students auditing the course, and specifically where the auditing student has met the audit requirements of the course as defined by the instructor. A grade designation of &quot;NC&quot; (No Credit) is given to students who do not meet the audit requirements. There are no credit hours associated with an AUD grade designation. (See Audit above.)</p>
+<h3>INC (“Incomplete”)</h3>
+<p>Instructors report this designation to the Office of the Registrar when a student fails to complete a course because of verified illness or other circumstances beyond the student’s control that occur during the semester. Students must provide independent corroboration of their illness or circumstances, and they are expected to coordinate with the instructor prior to final grades being submitted. For an INC received in the fall semester, students must complete the work by the end of the first week of the spring semester or an earlier date as defined by the instructor, and instructors must submit a revised grade by the end of the second week. For an INC received in the spring or summer semester, students must complete the work before the start of the fall semester or an earlier date as defined by the instructor, and instructors must submit a revised grade by the end of the first week. If a grade is not submitted by the appropriate deadline, the INC will be automatically converted to a failing grade.</p>
+<p>Students with an INC must be certain that tests, papers, and other materials affecting their grade or essential to completing a course requirement are delivered by hand to the appropriate professor or office according to the timeline previously stated, for the instructor to grade the documents and submit the final grade to the Office of the Registrar by the deadline. Loss or lateness because of mail service is not an acceptable excuse for failing to meet academic deadlines. Students also should be aware that they may be placed on probation or suspension when the INC is changed to a grade, either by an instructor or by default.</p>
+<h3><a id="NC" name="NC"></a>NC (“No Credit”)</h3>
+<p>This designation signals that no credit was granted for the course. It is used in situations where a person auditing a course has not met the audit requirements of the course as defined by the instructor. (See Audit above.)</p>
+<h3>NG (“No Grade”)</h3>
+<p>This designation signals that no credit was granted for the course, and no grade was submitted by the instructor. As a non-punitive grade, the NG is applied administratively and used in rare situations.</p>
+<h3>OT (“Other”)</h3>
+<p>Instructors report this designation to the Office of the Registrar when a student fails to appear for the final examination after completing all the other required work for the course. An OT awarded during a fall semester must be resolved and instructors must submit a revised grade by the end of the first week of the spring semester. An OT awarded during a spring semester must be resolved and instructors must submit a revised grade by the end of the fourth week after Commencement. An OT awarded during a summer semester must be resolved and instructors must submit a revised grade by the start of orientation week. If a grade is not submitted by the appropriate deadline, the OT will be automatically converted to a failing grade. Students should be aware that they may be placed on probation or suspension when the OT is changed to a grade, either by an instructor or by default.</p>
+<h3>SA (“Study Away”)</h3>
+<p>This designation is used for students that participate in a course of study hosted at another institution, such as a Rice-sanctioned Study Abroad program, or an approved Inter-Institutional agreement. The grade of SA is awarded for the Rice placeholder course, carries no grade points and there are no credit hours earned for a course which receives a grade of SA. There is corresponding transfer credit that is articulated once an official transcript is received from the host school.</p>
+<h3>W (“Official Withdrawal from University”)</h3>
+<p>Students who officially withdraw from the university after the designated drop deadline, the seventh week of classes, will receive a final grade of “W” for each course in which they were enrolled at the time of withdrawal.</p>
+<p>Students who officially withdraw from the university by the drop deadline will not receive the grade of “W” for any courses in which they were enrolled for that semester. These courses will not be included on the official transcript.</p>
+<h3>W (“Late Drop with Approval”)</h3>
+<p>A student who receives approval from the Committee on Examinations and Standing to drop a course after the designated drop deadline will receive a grade of “W” for that course. When requests for late drops are denied by the committee, the Office of the Registrar records the submitted grade.</p>
+<p>If a student drops a class before the designated drop deadline for the semester, the course will not be included on his/her official transcript. New matriculants in their first semester at Rice may drop a class up until the last day of classes, and through the end of week ten in their second semester, if that is a full-term Spring semester, and the course will not be included on the student’s official transcript.</p>
+<h3>XII (&quot;Article XII&quot;)</h3>
+<p>This designation was used in various honor council or judicial cases when a student had opted to voluntarily withdraw from the university and forfeit credit for the course in question, with the understanding that the accusation would not otherwise be pursued. This option is no longer available.</p>
+<h2 headerid="5" name="text">Grade Points </h2>
+<p>To compute grade point average, letter grades are assigned numeric values as follows:</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_gpa" summary="GPA">
+<caption class="hidden noscript">GPA</caption>
+<colgroup><col class="column0"/><col class="column1"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Letter Grade</th>
+<th scope="col" class="column1"> Numeric Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">A+</td>
+<td class="column1">4.00<sup>1</sup></td>
+</tr>
+<tr class="odd"><td class="column0">A</td>
+<td class="column1">4.00</td>
+</tr>
+<tr class="even"><td class="column0">A-</td>
+<td class="column1">3.67</td>
+</tr>
+<tr class="odd"><td class="column0">B+</td>
+<td class="column1">3.33</td>
+</tr>
+<tr class="even"><td class="column0">B</td>
+<td class="column1">3.00</td>
+</tr>
+<tr class="odd"><td class="column0">B-</td>
+<td class="column1">2.67</td>
+</tr>
+<tr class="even"><td class="column0">C+</td>
+<td class="column1">2.33</td>
+</tr>
+<tr class="odd"><td class="column0">C</td>
+<td class="column1">2.00</td>
+</tr>
+<tr class="even"><td class="column0">C-</td>
+<td class="column1">1.67</td>
+</tr>
+<tr class="odd"><td class="column0">D+</td>
+<td class="column1">1.33</td>
+</tr>
+<tr class="even"><td class="column0">D</td>
+<td class="column1">1.00</td>
+</tr>
+<tr class="odd"><td class="column0">D-</td>
+<td class="column1">0.67</td>
+</tr>
+<tr class="even last lastrow"><td class="column0">F</td>
+<td class="column1">0.00</td>
+</tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p>Effective Academic Year 2018-2019, the A+ grade is now worth 4.00, not 4.33, in calculating the GPA.</p></td></tr></table>
+<h3>Grade Point Average Calculation</h3>
+<p>For each course carrying standard letter grades, the credit hours attempted and the points for the grade earned are multiplied. The grade points for each course are added together, and the sum is divided by the total credit hours attempted. Grade point averages are noted each semester on the student’s official transcripts. Courses taken on a S/U or pass/fail basis are excluded from the grade point average calculation. </p>
+</div><!--end #textcontainer -->
+
+		</div> <!-- end #content -->
+	</div> <!-- right-col -->
+</div> <!-- content-wrapper -->
+
+<!--htdig_noindex-->
+<footer id="footer" role="contentinfo">
+	<div class="wrap">
+		<div id="foot-logo">
+			<a href="http://www.rice.edu"><img src="/images/logo.jpg" alt="Rice University" /></a>
+		</div>
+		<p>
+			6100 Main St., Houston, TX 77005-1892<br/>
+			Mailing Address: P.O. Box 1892 Houston, TX 77251-1892
+		</p>
+	</div>
+</footer><!-- end #footer -->
+<!--/htdig_noindex-->
+
+<a href="#header" id="totop"><span class="sr-only">Back to Top</span></a>
+
+<div id="print-dialog" class="screen noscript" role="dialog">
+	<div class="print-header">
+		Print Options
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false;">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+				<!--<a href="/pdf/2017-2018_GA.pdf">Download PDF of General Announcements</a>
+			<p>
+				<em>The PDF will include all pages of the General Announcements.</em>
+			</p>-->
+		</div>
+
+
+
+<div class="print-option"><div class="option-head"><a href="grades.pdf" target="_blank">Download PDF of this page</a></div><p><em>The PDF will include all information unique to this page.</em></p></div>
+
+	</div>
+
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

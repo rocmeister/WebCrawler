@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="description" content="*/" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://dou.rice.edu/student-resources/student-handbook/honor-system" />
+<link rel="shortlink" href="https://dou.rice.edu/node/1761" />
+    <title>Honor System | Dean of Undergraduates | Rice University</title>
+
+        <meta name="apple-mobile-web-app-title" content="RUAF">
+    <meta name="application-name" content="RUAF">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://www.rice.edu/apple-touch-icon-precomposed.png">
+
+    <!-- STYLES -->
+    <style type="text/css" media="all">
+@import url("https://dou.rice.edu/modules/system/system.base.css?punmg3");
+@import url("https://dou.rice.edu/modules/system/system.menus.css?punmg3");
+@import url("https://dou.rice.edu/modules/system/system.messages.css?punmg3");
+@import url("https://dou.rice.edu/modules/system/system.theme.css?punmg3");
+</style>
+<style type="text/css" media="all">
+@import url("https://dou.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.tabs.min.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.accordion.min.css?punmg3");
+</style>
+<style type="text/css" media="all">
+@import url("https://dou.rice.edu/sites/all/modules/contrib/date/date_api/date.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?punmg3");
+@import url("https://dou.rice.edu/modules/field/theme/field.css?punmg3");
+@import url("https://dou.rice.edu/modules/node/node.css?punmg3");
+@import url("https://dou.rice.edu/modules/user/user.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/custom/video_filter/video_filter.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/views/css/views.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/ckeditor/css/ckeditor.css?punmg3");
+</style>
+<style type="text/css" media="all">
+@import url("https://dou.rice.edu/sites/all/modules/contrib/ctools/css/ctools.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/modules/contrib/panels/css/panels.css?punmg3");
+</style>
+<style type="text/css" media="all">
+@import url("https://dou.rice.edu/themes/stark/layout.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/themes/custom/ricestark/css/main.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/themes/custom/ricestark/css/custom.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/themes/custom/ricestark/css/hero.css?punmg3");
+@import url("https://dou.rice.edu/sites/all/themes/custom/ricestark/css/extra.css?punmg3");
+</style>
+<style type="text/css" media="print">
+@import url("https://dou.rice.edu/sites/all/themes/custom/ricestark/css/print.css?punmg3");
+</style>
+    <style type="text/css" media="all">
+      /* Hero Image Workaround */
+      	      </style>
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <!--[if lt IE 9]>
+      <link rel="stylesheet" href="sites/all/themes/custom/ricestark/css/ie.css">
+      <script src="sites/all/themes/custom/ricestark/scripts/html5shiv.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+      <link rel="stylesheet" href="sites/all/themes/custom/ricestark/css/ie7.css" type="text/css" media="screen" />
+      <script src="sites/all/themes/custom/ricestark/scripts/ie7.js"></script>
+    <![endif]-->
+
+    <!-- SCRIPTS -->
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://dou.rice.edu/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://dou.rice.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://dou.rice.edu/misc/drupal.js?punmg3"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://dou.rice.edu/sites/all/themes/custom/ricestark/scripts/rice-trajan.js?punmg3"></script>
+<script type="text/javascript" src="https://dou.rice.edu/sites/all/modules/contrib/google_analytics/googleanalytics.js?punmg3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-2249859-33", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ricestark","theme_token":"vQihuScuapOVeonMN_LsEYcoIg8xV1R-J1V-WM8gof8","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/themes\/custom\/ricestark\/scripts\/rice-trajan.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/custom\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"themes\/stark\/layout.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/main.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/custom.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/hero.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/extra.css":1,"sites\/all\/themes\/custom\/ricestark\/css\/print.css":1}},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/custom\/video_filter"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+
+
+  </head>
+  <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-1761 node-type-basic-page"  >
+
+        <div id="skiplinkholder"><a id="skiplink" href="#skiptarget">Skip Navigation and go to main content (Press Enter).</a></div>
+
+        <div class="accessheader">
+      <a href="http://dss.rice.edu/"> Accessibility Help </a> | <a href="https://get.adobe.com/reader/">Download Adobe Acrobat Reader for .pdf Files</a>
+    </div>
+
+    <!--[if lt IE 9]><div id="old-browser"><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer is missing updates required to properly view this site. Click here to update&#8230;</a></div><![endif]-->
+
+        <!-- PAGE -->
+<!-- REGION: HEADER -->
+<header>
+  <!-- block: menu -->
+<nav id="resource-bar"><div class="title">Resources for:</div><!--This is the very top grey bar with resources --><ul id="gateways"><li><a href="http://www.rice.edu/undergraduates.shtml" title="">Undergraduates</a></li><li><a href="http://www.rice.edu/graduates.shtml" title="">Graduates</a></li><li><a href="http://www.rice.edu/parents.shtml" title="">Parents</a></li><li><a href="http://www.rice.edu/faculty-staff.shtml" title="">Faculty &amp; Staff</a></li></ul></nav><!-- block: Rice Header -->
+<!-- BRAND BAR -->
+<div class="container">
+    <div class="row">
+
+      <!-- Logo -->
+      <div class="logo alpha col-8 omega">
+        <div class="logo-img">
+          <a href="http://rice.edu">
+            <img src="/sites/all/themes/custom/ricestark/images/rice-logo-alt.jpg" alt="Rice University Logo" width="180">
+          </a>
+        </div> <!-- End .logo-img-->
+        <div class="logo-text sr-only">
+          <div>Rice University</div>
+        </div> <!-- End .logo-text-->
+
+                  
+                    <div class="school-full-name name-only">
+            <a href="/" class="">Office of the Dean of Undergraduates</a>          </div>
+                  
+      </div> <!-- End .logo-->
+
+      <!-- Search -->
+      <div class="search hidden-sm">
+        <form action="https://search.rice.edu/" name="gs" method="get">
+          <label class="hidden" for="p">Search Form</label>
+          <input name="q" type="text" id="p" title="search engine" aria-label="Search Terms" size="18" maxlength="255"/>
+          <button type="submit" name="tab" class="fa fa-search"><span class="button-label">Search</span></button>
+        </form>
+      </div> <!-- // End .search-->
+
+    </div> <!-- // End .row -->
+  </div> <!-- // End .container -->
+
+<!-- BRAND BAR END -->
+<div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <nav id="topnav" class="main-nav" role="navigation"><!-- This is the nav that shows on desktop --><div class="navrow" role="navigation"><ul class="nav" role="menu"><li class="first leaf nav-item" data-menu-location="main-menu-1"><a href="/" title="">Home</a></li><li class="collapsed nav-item" data-menu-location="main-menu-1"><a href="/about-dean">Dean&#039;s Office</a></li><li class="expanded active-trail nav-item" data-menu-location="main-menu-1"><a href="/student-resources" class="active-trail" data-dropdown="student-resources">Student Resources</a><div class="dropdown student-resources-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><p><img src="/sites/g/files/bxs1481/f/9569649869_76fb07160b_o.jpg" width="100%"></p></div><li class="first expanded active-trail" data-menu-location="main-menu-2" data-menu-group="student-resources" data-link-order="0"><div class="col-3"><a href="/student-resources" class="heading-link active-trail">Student Handbook</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/administrative-leadership-rice">Administrative Leadership</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/undergraduate-alcohol-policy">Undergraduate Alcohol Policy</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://studentcenter.rice.edu/club-listings">Clubs and Organizations</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/code-of-student-conduct">Code of Student Conduct</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/computing-networking-and-telephone">Computing, Networking, and Telephone</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/disability-resource-center">Disability Resource Center</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/emergency-procedures">Emergency Procedures</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://registrar.rice.edu/ferpa">FERPA</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/financial-and-institutional-information-students">Financial and Institutional Information for Students</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/">General Announcements</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/hazing">Hazing</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/student-services-organizations/health-counseling-wellbeing/">Health, Counseling, and Wellbeing</a></li><li class="leaf active-trail" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/honor-system" class="active-trail active">Honor System</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://campushousing.rice.edu/undergraduate-housing/">Housing and Dining</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/meningococcal-meningitis">Meningococcal Meningitis</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu/safety/missing-student-policy?id=60">Missing Persons</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu">Rice University Police Department</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/sexual-misconduct-policy">Sexual Misconduct Policy</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/student-government">Student Government</a></li></ul></div></li><li class="expanded" data-menu-location="main-menu-2" data-menu-group="student-resources"><div class="col-2"><h2><a href="/student-resources/petitions-special-requests" class="heading-link">Petitions &amp; Special Requests</a><ul class="menu"><li class="first collapsed" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/committee-examinations-and-standing">Committee on Examinations and Standing</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/overload-requests">Course Overload Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/reduced-course-load-requests">Reduced Course Load Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/concurrent-enrollment-request">Concurrent Enrollment Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/request-participate-commencement">Request to Participate in Commencement</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/senior-exception-rule">Senior Exception Rule</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/student-resources/petitions-special-requests/undergraduate-separation-request">Undergraduate Separation Form</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="student-resources" data-link-order="2"><div class="col-2 omega"><h2><a href="/student-resources/public-health-scholars-program" class="heading-link">Rice-UT Public Health Scholars Program</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/about-program">About the Program</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/about-process">About the Process</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/core-ut-school-public-health-mph-courses">Core UTSPH Courses</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/rice-ut-public-health-scholars-faqs">Rice-UT Public Health Scholars FAQs</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="https://dou.rice.edu/sites/g/files/bxs1481/f/Application%20Form_RICE_UT_PUBLIC_HEALTH_2019FORM.pdf">Rice-UT Health Scholars Program Application</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/departments-and-offices">Departments &amp; Offices</a></li><li class="expanded nav-item" data-menu-location="main-menu-1"><a href="/residential-colleges" data-dropdown="residential-colleges">Residential Colleges</a><div class="dropdown residential-colleges-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><p><img src="/sites/g/files/bxs1481/f/O-Week-Schedule-1455z5g-1.jpg" width="100%"></p></div><li class="first last expanded aria-selected=&quot;true&quot;" data-menu-location="main-menu-2" data-menu-group="residential-colleges" data-link-order="0"><div class="col-3 omega"><h2><span class="heading-link nolink">Residential College Information</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-assignments">College Assignments</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-magisters">College Magisters</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/residential-associates">Residential Associates</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-coordinators">College Coordinators</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="http://associatesprogram.rice.edu">Associates Program</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="last collapsed nav-item" data-menu-location="main-menu-1"><a href="/contact">Contact</a></li></ul></div><div class="mobilenavouter"><div class="row"><div id="navslider"><button type="button" class="navbar-toggle show_hide"><span class="icon-bar"><span class="toggleaccess">Mobile Menu</span></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button></div><!--//End navslider--><div class="search visible-sm"><div class="adj"><!-- trying to fix pixel offset --><form  action="https://search.rice.edu" name="gs" method="get"><label class="hidden" for="q">Search Form</label><input name="q" type="text" id="q" title="search engine" aria-label="Search Form" size="18" maxlength="255"/><button type="submit" name="tab" class="fa fa-search"><span class="button-label">Search</span></button></form></div><!--//End adj--></div><!--//End search--><div class="slidingDiv"><div id="mobnav-container"><!-- This is the top nav that shows on mobile devices in the left hand column ---><ul id="mainnav" class="mobnav"><li class="first leaf nav-item" data-menu-location="main-menu-1"><a href="/" title="">Home</a></li><li class="collapsed nav-item" data-menu-location="main-menu-1"><a href="/about-dean">Dean&#039;s Office</a></li><li class="expanded active-trail nav-item" data-menu-location="main-menu-1"><a href="/student-resources" class="active-trail" data-dropdown="student-resources">Student Resources</a><div class="dropdown student-resources-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><p><img src="/sites/g/files/bxs1481/f/9569649869_76fb07160b_o.jpg" width="100%"></p></div><li class="first expanded active-trail" data-menu-location="main-menu-2" data-menu-group="student-resources" data-link-order="0"><div class="col-3"><a href="/student-resources" class="heading-link active-trail">Student Handbook</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/administrative-leadership-rice">Administrative Leadership</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/undergraduate-alcohol-policy">Undergraduate Alcohol Policy</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://studentcenter.rice.edu/club-listings">Clubs and Organizations</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/code-of-student-conduct">Code of Student Conduct</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/computing-networking-and-telephone">Computing, Networking, and Telephone</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/disability-resource-center">Disability Resource Center</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/emergency-procedures">Emergency Procedures</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://registrar.rice.edu/ferpa">FERPA</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/financial-and-institutional-information-students">Financial and Institutional Information for Students</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/">General Announcements</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/hazing">Hazing</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/student-services-organizations/health-counseling-wellbeing/">Health, Counseling, and Wellbeing</a></li><li class="leaf active-trail" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/honor-system" class="active-trail active">Honor System</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://campushousing.rice.edu/undergraduate-housing/">Housing and Dining</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/meningococcal-meningitis">Meningococcal Meningitis</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu/safety/missing-student-policy?id=60">Missing Persons</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu">Rice University Police Department</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/sexual-misconduct-policy">Sexual Misconduct Policy</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/student-government">Student Government</a></li></ul></div></li><li class="expanded" data-menu-location="main-menu-2" data-menu-group="student-resources"><div class="col-2"><h2><a href="/student-resources/petitions-special-requests" class="heading-link">Petitions &amp; Special Requests</a><ul class="menu"><li class="first collapsed" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/committee-examinations-and-standing">Committee on Examinations and Standing</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/overload-requests">Course Overload Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/reduced-course-load-requests">Reduced Course Load Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/concurrent-enrollment-request">Concurrent Enrollment Request</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/request-participate-commencement">Request to Participate in Commencement</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/senior-exception-rule">Senior Exception Rule</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/student-resources/petitions-special-requests/undergraduate-separation-request">Undergraduate Separation Form</a></li></ul></h2></div></li><li class="last expanded" data-menu-location="main-menu-2" data-menu-group="student-resources" data-link-order="2"><div class="col-2 omega"><h2><a href="/student-resources/public-health-scholars-program" class="heading-link">Rice-UT Public Health Scholars Program</a><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/about-program">About the Program</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/about-process">About the Process</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/core-ut-school-public-health-mph-courses">Core UTSPH Courses</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/rice-ut-public-health-scholars-faqs">Rice-UT Public Health Scholars FAQs</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="https://dou.rice.edu/sites/g/files/bxs1481/f/Application%20Form_RICE_UT_PUBLIC_HEALTH_2019FORM.pdf">Rice-UT Health Scholars Program Application</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="leaf nav-item" data-menu-location="main-menu-1"><a href="/departments-and-offices">Departments &amp; Offices</a></li><li class="expanded nav-item" data-menu-location="main-menu-1"><a href="/residential-colleges" data-dropdown="residential-colleges">Residential Colleges</a><div class="dropdown residential-colleges-panel"><div class="dropdown-panel"><div class="container"><div class="row"><ul class="dropdown-menu main-menu-2"><div class="col-4"><p><img src="/sites/g/files/bxs1481/f/O-Week-Schedule-1455z5g-1.jpg" width="100%"></p></div><li class="first last expanded aria-selected=&quot;true&quot;" data-menu-location="main-menu-2" data-menu-group="residential-colleges" data-link-order="0"><div class="col-3 omega"><h2><span class="heading-link nolink">Residential College Information</span><ul class="menu"><li class="first leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-assignments">College Assignments</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-magisters">College Magisters</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/residential-associates">Residential Associates</a></li><li class="leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="/residential-colleges/college-coordinators">College Coordinators</a></li><li class="last leaf" data-menu-location="main-menu-3" data-menu-group="residential-college-information"><a href="http://associatesprogram.rice.edu">Associates Program</a></li></ul></h2></div></li></ul></div><!--//End row--></div><!--//End container--></div><!--//End dropdown-panel--></div><!--//End dropdown--></li><li class="last collapsed nav-item" data-menu-location="main-menu-1"><a href="/contact">Contact</a></li></ul></div></div><!--//End slidingDiv--></div><!--//End Row --></div><!--//End mobilenavouter--></nav>  </div>
+</div>
+<!-- block: Breadcrumbs -->
+<div class="breadcrumbs container"><div class="row"><ol><li><strong><a href="http://www.rice.edu">Rice</a></strong></li>&nbsp;</li><span class="separator">/</span>&nbsp;<li><a href="/">Dean of Undergraduates</a></li>&nbsp;</li><span class="separator">/</span>&nbsp;<li><a href="/student-resources">Student Resources</a></li>&nbsp;</li><span class="separator">/</span>&nbsp;<li><a href="/student-resources/student-handbook">Student Handbook</a></li>&nbsp;</li><span class="separator">/</span>&nbsp;<li>Honor System</li></ol></div></div>
+</header>
+<!-- REGION: HEADER (END)-->
+<!-- REGION: HERO -->
+
+<div class="underhero container">
+  <div class="row">
+      </div>
+</div>
+<!-- REGION: HERO (END)-->
+
+  <section class="container">
+    <div class="row content-item">
+
+      <!-- REGION: SIDEBAR-FIRST -->
+<div class="sidebar-first col-3 alpha">
+  <div id="block-menu-block-1" class="block block-menu-block rice-button-menu">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first expanded active-trail menu-mlid-9641" data-menu-location="main-menu-2" data-menu-group="student-resources"><a href="/student-resources" class="heading-link active-trail">Student Handbook</a><ul class="menu"><li class="first leaf menu-mlid-9541" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/administrative-leadership-rice">Administrative Leadership</a></li><li class="leaf menu-mlid-9546" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/undergraduate-alcohol-policy">Undergraduate Alcohol Policy</a></li><li class="leaf menu-mlid-9591" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://studentcenter.rice.edu/club-listings">Clubs and Organizations</a></li><li class="leaf menu-mlid-9621" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/code-of-student-conduct">Code of Student Conduct</a></li><li class="leaf menu-mlid-9581" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/computing-networking-and-telephone">Computing, Networking, and Telephone</a></li><li class="leaf menu-mlid-9586" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/disability-resource-center">Disability Resource Center</a></li><li class="leaf menu-mlid-9616" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/emergency-procedures">Emergency Procedures</a></li><li class="leaf menu-mlid-9566" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://registrar.rice.edu/ferpa">FERPA</a></li><li class="leaf menu-mlid-9571" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/financial-and-institutional-information-students">Financial and Institutional Information for Students</a></li><li class="leaf menu-mlid-9656" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/">General Announcements</a></li><li class="leaf menu-mlid-9556" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/hazing">Hazing</a></li><li class="leaf menu-mlid-9661" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://ga.rice.edu/undergraduate-students/student-services-organizations/health-counseling-wellbeing/">Health, Counseling, and Wellbeing</a></li><li class="leaf active-trail active menu-mlid-9551" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/honor-system" class="active-trail active">Honor System</a></li><li class="leaf menu-mlid-9626" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="http://campushousing.rice.edu/undergraduate-housing/">Housing and Dining</a></li><li class="leaf menu-mlid-9611" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/meningococcal-meningitis">Meningococcal Meningitis</a></li><li class="leaf menu-mlid-9631" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu/safety/missing-student-policy?id=60">Missing Persons</a></li><li class="leaf menu-mlid-9651" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://rupd.rice.edu">Rice University Police Department</a></li><li class="leaf menu-mlid-9606" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="https://sjp.rice.edu/sexual-misconduct-policy">Sexual Misconduct Policy</a></li><li class="last leaf menu-mlid-9576" data-menu-location="main-menu-3" data-menu-group="student-handbook"><a href="/student-resources/student-handbook/student-government">Student Government</a></li></ul></li><li class="expanded menu-mlid-6471" data-menu-location="main-menu-2" data-menu-group="student-resources"><a href="/student-resources/petitions-special-requests">Petitions &amp; Special Requests</a><ul class="menu"><li class="first expanded menu-mlid-9166" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/committee-examinations-and-standing">Committee on Examinations and Standing</a><ul class="menu"><li class="first last leaf menu-mlid-9501" data-menu-location="main-menu-4" data-menu-group="committee-on-examinations-and-standing"><a href="/exs-faqs">EX&amp;S FAQs</a></li></ul></li><li class="leaf menu-mlid-9171" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/overload-requests">Course Overload Request</a></li><li class="leaf menu-mlid-9176" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/reduced-course-load-requests">Reduced Course Load Request</a></li><li class="leaf menu-mlid-9506" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/concurrent-enrollment-request">Concurrent Enrollment Request</a></li><li class="leaf menu-mlid-9181" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/request-participate-commencement">Request to Participate in Commencement</a></li><li class="leaf menu-mlid-9186" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/senior-exception-rule">Senior Exception Rule</a></li><li class="last leaf menu-mlid-6463" data-menu-location="main-menu-3" data-menu-group="petitions-special-requests"><a href="/student-resources/petitions-special-requests/undergraduate-separation-request">Undergraduate Separation Form</a></li></ul></li><li class="last expanded menu-mlid-6453" data-menu-location="main-menu-2" data-menu-group="student-resources"><a href="/student-resources/public-health-scholars-program">Rice-UT Public Health Scholars Program</a><ul class="menu"><li class="first leaf menu-mlid-9646" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/about-program">About the Program</a></li><li class="leaf menu-mlid-6454" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/about-process">About the Process</a></li><li class="leaf menu-mlid-6469" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/student-resources/rice-ut-public-health-scholars-program/core-ut-school-public-health-mph-courses">Core UTSPH Courses</a></li><li class="leaf menu-mlid-9516" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="/rice-ut-public-health-scholars-faqs">Rice-UT Public Health Scholars FAQs</a></li><li class="last leaf menu-mlid-9666" data-menu-location="main-menu-3" data-menu-group="rice-ut-public-health-scholars-program"><a href="https://dou.rice.edu/sites/g/files/bxs1481/f/Application%20Form_RICE_UT_PUBLIC_HEALTH_2019FORM.pdf">Rice-UT Health Scholars Program Application</a></li></ul></li></ul></div>
+  </div>
+</div>
+</div>
+<!-- REGION: SIDEBAR-FIRST (END)-->
+
+            <div id="featured-content" class="col-9 omega">
+        <a id="skiptarget"></a>
+
+        
+                  <div class="tabs">
+                      </div>
+        
+        
+                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="info-section">
+  <div class="module-info">
+    <h1>Honor System</h1>    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+ol ol {
+    list-style: lower-alpha !important;
+}
+/*--><!]]>*/
+</style><p>The academic Honor System is one of the most valued traditions at Rice, but it can only be effective if the entire student body accepts its responsibilities, individually and collectively, for maintaining the integrity of the system. The effectiveness of the Honor System also depends upon the support and cooperation of the faculty. The following is intended as a brief guide to policies and procedures. Every student should read the Constitution and By-laws of the Honor Council and the Honor Code. Copies can be obtained in the Office of the Assistant Dean, Student Judicial Programs.</p>
+<p>Members of the Honor Council are happy to answer questions students or faculty may have. Each year a faculty liaison is named to explain decisions to faculty members and forward faculty complaints to the council.</p>
+<h4>
+	<strong>Work covered under the Honor System</strong></h4>
+<ul><li>
+		All quizzes, tests and examinations are covered by the system.</li>
+<li>
+		All themes, essays and papers are covered by the system. The amount of communication among students (proofreading, discussion of ideas, etc.) and the amount of reference materials allowed is entirely at the discretion of the professor, who should state very precisely what is expected in this area.</li>
+<li>
+		A professor may place homework or any other academic assignment under the Honor System and should be explicit communicating expectations and requirements to students.</li>
+<li>
+		Group projects, laboratory assignments, and computer work are considered covered by the Honor System. Although the professor should make clear the extent of collaboration allowed on these assignments, it is the student's responsibility to ask of the professor her or his requirements for that project.</li>
+</ul><h4>
+	<strong>Obligations under the Honor System</strong></h4>
+<ul><li>
+		Entering Students. All students entering Rice affirm their support to the Honor System. The affirmation is completed online during course registration. Students must complete this affirmation in order to be allowed to register for classes.</li>
+<li>
+		Pledge. The examination pledge is required at the end of all examinations, tests and quizzes, and it may appear at the request of the professor on all other projects under the Honor System. The absence of the pledge from the academic work normally covered by the Honor System does not remove that work from under the system.</li>
+<li>
+		Monitoring. Professors may not monitor examinations, but they may remain in the room for questions and consultation.</li>
+<li>
+		Violation of the Honor System. Anyone who discovers evidence of a possible violation of the Honor System should inform the Honor Council or Student Judicial Programs as soon as possible. Under the Honor System, the Honor Council is charged with the responsibility of investigating suspected violations and recommending possible sanctions.</li>
+<li>
+		Confidentiality. Faculty members are requested to observe the same confidentiality required of students with respect to accusations, trials and results.</li>
+</ul><p>Additional information can be found on the Honor System <a href="http://honor.rice.edu">website</a>. </p>
+</div></div></div>  </div>
+  </div>
+  </div>
+</div>
+  </div>
+
+      </div>
+
+      
+    </div>
+  </section>
+
+<!-- REGION: FOOTER -->
+<a href="#" class="cd-top">Top</a>
+<footer>
+  <div class="container">
+    <div id="footer-logo" class="row">
+      <div class="col-12 alpha">
+        <img src="/sites/all/themes/custom/ricestark/images/rice-logo.jpg" alt="Rice Logo - Shield with the word Rice next to it." width="120">
+        <p class="address">
+          6100 Main St., Houston, TX 77005-1827 <br>
+          Mailing Address: P.O. Box 1892 Houston, TX 77251-1892<br>
+          713-348-0000&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://privacy.rice.edu">Privacy Policy</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- REGION: FOOTER (END)-->
+    
+        <script id="tools" type="text/javascript" async="async" defer="defer" src="/sites/all/themes/custom/ricestark/scripts/tools5.js"></script>
+
+  </body>
+</html>
