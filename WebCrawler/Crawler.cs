@@ -16,12 +16,14 @@ namespace WebCrawler
     {
         private Hashtable _urls;
         private int _numPages = 0;
+        private int maxLinks; // maximum number of links to analyze
 
-        public Crawler(string url)
+        public Crawler(string url, int numLinks)
         {
             // Add the new url to the initial hashtable
             _urls = new Hashtable();
             _urls[url] = false; // or _urls.Add(url, false);
+            maxLinks = numLinks;
         }
 
         // Starts the crawling step
@@ -41,7 +43,7 @@ namespace WebCrawler
                         break;
                     }
                 }
-                if (candidateURL == null || _numPages > 10) break;
+                if (candidateURL == null || _numPages >= maxLinks) break;
 
                 Console.WriteLine("Analyzing {0}...", candidateURL);
 
@@ -75,8 +77,8 @@ namespace WebCrawler
 
                 // Convert page data array to string
                 string str = Encoding.UTF8.GetString(data);
-                Console.WriteLine(str);
-                return Encoding.UTF8.GetString(data);
+                //Console.WriteLine(str);
+                return str;
             }
             catch
             {

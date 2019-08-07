@@ -1,18 +1,9 @@
 <html>
 <head>
-    
-    <meta charset="utf-8">
+        <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Rice University, Fondren Library EZproxy Login</title>
-<!--
-     NOTE:
-     To include graphics on this page, place the graphics in the public subdirectory
-	 and use links such as:
-     <img src="/public/logo.gif">
-     It is important to use /public/ instead of just public/ since some EZproxy
-     login URLs are not be relative to /
--->
+<title>EZproxy Cookies Required</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
@@ -31,7 +22,7 @@
 <div class="container-fluid">
 <div class="row">
 <div class="col-md-4"><a href="http://library.rice.edu" title="Fondren Library Home" target="_blank"><img src="https://library.rice.edu/~fondren/sites/all/themes/fondren_subtheme/templates/Fondren-Library-branded-logo.png" alt="Fondren Logo" border="0" height="72" /></a></div>
-<div class="col-md-8"><h3>EZproxy Login</h3></div>   
+<div class="col-md-8"><h3>EZproxy Error</h3></div>   
 </div>    
 
 <div class="row"><div class="col-md-12" style="background-color:#002469;height:20px;"></div></div>
@@ -51,14 +42,34 @@
 </div>    
 <div class="col-md-8">
 
+<h3>Cookies Required</h3>
+<p>
+Licensing agreements for these databases require that access be extended
+only to authorized users.  Once you have been validated by this system,
+a "cookie" is sent to your browser as an ongoing indication of your authorization to
+access these databases.  This cookie only needs to be set once during login.
+</p>
+<p>
+If you are using a firewall or network privacy program, you may need
+reconfigure it to allow cookies to be set from this server.
+</p>
+<p>
+As you access databases, they may also use cookies.  Your ability to use those databases
+may depend on whether or not you allow those cookies to be set.
+</p>
 
-<p><strong>ACCESS TO ELECTRONIC RESOURCES: POLICIES AND GUIDELINES</strong><br>
-EZproxy is the preferred option for <a href="http://library.rice.edu/services/campus-access" target="_blank">off-campus access</a> to Rice University's licensed online resources. Licenses with our commercial and scholarly publishers define how the resources may be accessed and used:
-<ul>
-<li>Use should be restricted to academic research and teaching;</li>
-<li>Systematic downloading of resources is prohibited;</li>
-<li>Content should not be made available on servers/websites that are openly accessible, nor should copyright marks be obstructed or removed;</li>
-<li>Use is subject to University policies, including <a href="http://www.professor.rice.edu/professor/Appropriate_Use_of_Computer_Resources.asp?SnID=6141608" target="_blank">Appropriate Use of Computer Resources</a> and <a href="http://www.professor.rice.edu/professor/Intellectual_Property_Policy.asp?SnID=157348334" target="_blank">Intellectual Property Policy</a>.</li>
+    <h4>If you are having problems logging into an electronic resource</h4>
+    
+    <p><a href="http://library.rice.edu/requests/contact-us-report-problem" target="_blank" alt="report a problem" class="btn btn-success" type="button" >Report a Problem with an Online Resource</a></p>    
+</div>    
+</div>
+    
+</div> 
+    </body>
+</html>
+
+
+ersity policies, including <a href="http://www.professor.rice.edu/professor/Appropriate_Use_of_Computer_Resources.asp?SnID=6141608" target="_blank">Appropriate Use of Computer Resources</a> and <a href="http://www.professor.rice.edu/professor/Intellectual_Property_Policy.asp?SnID=157348334" target="_blank">Intellectual Property Policy</a>.</li>
 </ul>
 </p>
 

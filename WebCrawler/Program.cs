@@ -10,7 +10,10 @@ namespace WebCrawler
             // starts with a user-inputted url or Rice University's url by default
             string defaultURL = "https://www.rice.edu/";
             string url = args.Length >= 1 ? args[0] : defaultURL;
-            Crawler crawler = new Crawler(url);
+
+            int maxLinks = 20;
+
+            Crawler crawler = new Crawler(url, maxLinks);
 
             // start running the crawler executing on a new thread
             new Thread(new ThreadStart(crawler.Crawl)).Start();
