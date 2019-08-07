@@ -86,7 +86,7 @@
 			defaultDownloadType: "",
 			saiDownloadType: "download",
 			aihDownloadType: "download",
-			sType: "7650",
+			sType: "7651",
 			downloadcenter: "reader",
 			locale: "en",
 			buttonClass: "download-button",

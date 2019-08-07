@@ -44,7 +44,7 @@
 <script src="https://library.rice.edu/misc/drupal.js?puh95z"></script>
 <script src="//cdn.jsdelivr.net/bootstrap/3.0.2/js/bootstrap.js"></script>
 <script src="https://library.rice.edu/sites/all/libraries/flexslider/jquery.flexslider-min.js?puh95z"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fondren_bootstrap_subtheme","theme_token":"7jwCNSTv0vCEmzSiKZPL50py1wQV4yEKyA9SmeShBI0","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/js\/bootstrap.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.0.2\/overrides.min.css":1,"sites\/all\/themes\/fondren_subtheme\/css\/style.css":1,"sites\/all\/themes\/fondren_subtheme\/css\/search_b_box.css":1}},"flexslider":{"optionsets":{"clone_of_library_news":{"namespace":"flex-","selector":".slides \u003E li","easing":"linear","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":3400,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":2,"itemMargin":5,"minItems":4,"maxItems":4,"move":1,"animation":"slide","slideshow":true,"slideshowSpeed":"20000","directionNav":true,"controlNav":false,"prevText":"previous","nextText":"next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":true,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":false,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"library-news":"clone_of_library_news"}},"statistics":{"data":{"nid":"2"},"url":"\/modules\/statistics\/statistics.php"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"auto bottom","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto bottom","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fondren_bootstrap_subtheme","theme_token":"1YpTJjkpyc-HHwpbYJdbZE2R4KbpXoF4OI7uKH-pFzU","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/js\/bootstrap.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.0.2\/overrides.min.css":1,"sites\/all\/themes\/fondren_subtheme\/css\/style.css":1,"sites\/all\/themes\/fondren_subtheme\/css\/search_b_box.css":1}},"flexslider":{"optionsets":{"clone_of_library_news":{"namespace":"flex-","selector":".slides \u003E li","easing":"linear","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":3400,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":2,"itemMargin":5,"minItems":4,"maxItems":4,"move":1,"animation":"slide","slideshow":true,"slideshowSpeed":"20000","directionNav":true,"controlNav":false,"prevText":"previous","nextText":"next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":true,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":false,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"library-news":"clone_of_library_news"}},"statistics":{"data":{"nid":"2"},"url":"\/modules\/statistics\/statistics.php"},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"auto bottom","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto bottom","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
     <!-- Primo VE Script added by Jeff that converts the query string into valid parameter -->
 <script type="text/javascript">
 function searchPrimo() {
@@ -121,7 +121,7 @@ document.forms["searchForm"].submit();
 
           <div class="navbar-collapse collapse">
         <nav role="navigation">
-                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/services" title="View all the available services for our patrons." data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-services-landing view-id-services_landing view-display-id-block_2 view-dom-id-e6fc0c486be610c39df4e609a008ae27">
+                      <ul class="menu nav navbar-nav"><li class="first expanded dropdown"><a href="/services" title="View all the available services for our patrons." data-target="#" class="dropdown-toggle" data-toggle="dropdown">Services <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-services-landing view-id-services_landing view-display-id-block_2 view-dom-id-0c9186b7f100e84f50e19ce0c9c3c31a">
         
   
   
@@ -192,7 +192,7 @@ document.forms["searchForm"].submit();
   
 </div></li>
 </ul></li>
-<li class="expanded dropdown"><a href="/all-places" title="Fondren Library is comprised of several departments, locations and public service points. " data-target="#" class="dropdown-toggle" data-toggle="dropdown">Places <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-all-departments view-id-all_departments view-display-id-block_1 view-dom-id-39ba928f11480c6e73abdc73ded2ca7d">
+<li class="expanded dropdown"><a href="/all-places" title="Fondren Library is comprised of several departments, locations and public service points. " data-target="#" class="dropdown-toggle" data-toggle="dropdown">Places <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-all-departments view-id-all_departments view-display-id-block_1 view-dom-id-e8fd3697d9da83417dea40fb7b443117">
         
   
   
@@ -264,7 +264,7 @@ document.forms["searchForm"].submit();
   
 </div></li>
 </ul></li>
-<li class="expanded dropdown"><a href="/equipment" title="View all the equipment available for checkout or use inside Fondren." data-target="#" class="dropdown-toggle" data-toggle="dropdown">Equipment <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-equipment-landing view-id-equipment_landing view-display-id-block_1 view-dom-id-bd0d5c6555e17578434c03e4017dce77">
+<li class="expanded dropdown"><a href="/equipment" title="View all the equipment available for checkout or use inside Fondren." data-target="#" class="dropdown-toggle" data-toggle="dropdown">Equipment <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf menu-views"><div class="view view-equipment-landing view-id-equipment_landing view-display-id-block_1 view-dom-id-7f5b11596304cbac244055368cae6e60">
         
   
   
@@ -463,7 +463,7 @@ document.forms["searchForm"].submit();
 <section id="block-views-library-news-block" class="block block-views clearfix">
 
       
-  <div class="view view-library-news view-id-library_news view-display-id-block view-dom-id-a7e30b87c36062c5a5038f4800c94055">
+  <div class="view view-library-news view-id-library_news view-display-id-block view-dom-id-73deefb177f4ba2863264981d88c00ed">
             <div class="view-header">
       <a class="btn btn-block btn-info spacing1" href="library-news" type="button" title="View all of Fondren&#039;s News, Features, Publications and Blogs"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span> News &amp; Features</a>    </div>
   
@@ -528,7 +528,7 @@ document.forms["searchForm"].submit();
 <section id="block-views-classes-events-block" class="block block-views clearfix">
 
       
-  <div class="view view-classes-events view-id-classes_events view-display-id-block view-dom-id-0af4703595038668adac2ba51f8ebbcd">
+  <div class="view view-classes-events view-id-classes_events view-display-id-block view-dom-id-d32bae6f0a6ee69625c86d1788a5ad99">
             <div class="view-header">
       <br /><p><a href="calendar" class="btn btn-info btn-block2" title="View all of Fondren&#039;s Upcoming Classes &amp; Events"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Classes &amp; Events</a></p>    </div>
   

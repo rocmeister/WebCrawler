@@ -10,6 +10,8 @@ using System.Text.RegularExpressions;
 
 namespace WebCrawler
 {
+    /* A Web Crawler class that analyzes the html contents of websites, 
+     extracts all absolute URL links, and then further analyzes those links. */
     public class Crawler
     {
         private Hashtable _urls;
@@ -22,6 +24,7 @@ namespace WebCrawler
             _urls[url] = false; // or _urls.Add(url, false);
         }
 
+        // Starts the crawling step
         public void Crawl()
         {
             Console.WriteLine("Start crawling...");
@@ -37,9 +40,6 @@ namespace WebCrawler
                         candidateURL = url;
                         break;
                     }
-
-                    //if ((bool)_urls[url]) continue; //??????????????????????
-                    //candidateURL = url;
                 }
                 if (candidateURL == null || _numPages > 10) break;
 
@@ -61,59 +61,60 @@ namespace WebCrawler
         // Downloads the html page content from the given url
         private string Download(string url)
         {
+            // Use error handling for invalid url paths
             try
             {
-                //Console.WriteLine("Download function using {0}", url);
                 // Use WebClient to download the page data
                 WebClient client = new WebClient();
                 byte[] data = client.DownloadData(url);
+
                 // Writes the html content to a new file
                 FileStream fs = new FileStream(_numPages.ToString(), FileMode.OpenOrCreate);
                 fs.Write(data, 0, data.Length);
                 fs.Close();
-                //return client.DownloadString(url);
+
+                // Convert page data array to string
+                string str = Encoding.UTF8.GetString(data);
+                Console.WriteLine(str);
                 return Encoding.UTF8.GetString(data);
             }
             catch
             {
             }
+            // simply return nothing in the case of an invalid url path
+            // and no further links will get parsed from this link
             return "";
-            //Console.WriteLine("Download function using {0}", url);
-            //// Use WebClient to download the page data
-            //WebClient client = new WebClient();
-            //byte[] data = client.DownloadData(url);
-            //// Writes the html content to a new file
-            //FileStream fs = new FileStream(_numPages.ToString(), FileMode.OpenOrCreate);
-            //fs.Write(data, 0, data.Length);
-            //fs.Close();
-            ////return client.DownloadString(url);
-            //return Encoding.UTF8.GetString(data);
 
-            // Other ways to download the html contents from a web page
+            /* Other ways to download the html contents from a web page */
 
-            // Download the page data array then convert to a string
-            //byte[] data = client.DownloadData(url);
-            //return Encoding.UTF8.GetString(data);
+            // Download the page data in string format
+            // return client.DownloadString(url);
 
-            // Use WebRequest/WebResponse
-            //HttpWebRequest req = (HttpWebRequest) WebRequest.Create(url);
-            //HttpWebResponse resp = (HttpWebResponse) req.GetResponse();
-            //Stream stream = resp.GetResponseStream();
-            //return new StreamReader(stream).ReadToEnd();
+            // Use WebRequest/WebResponse and StreamReader
+            // HttpWebRequest req = (HttpWebRequest) WebRequest.Create(url);
+            // HttpWebResponse resp = (HttpWebResponse) req.GetResponse();
+            // Stream stream = resp.GetResponseStream();
+            // return new StreamReader(stream).ReadToEnd();
         }
 
         // Parse the given html of a page and find the url links 
         // referenced and sourced in this page
         private void Parse(string html)
         {
-            string strRef = @"(href|HREF|src|SRC)[ ]*=[ ]*[""'][^""'#>]+[""']";
-            MatchCollection matches = new Regex(strRef).Matches(html);
-            foreach (Match match in matches)
-            {
-                strRef = match.Value.Substring(match.Value.IndexOf('=') + 1).Trim('"', '\'', '#', ' ', '>');
-                if (strRef.Length == 0) continue;
+            // regex reference
+            // example href="https://brand.rice.edu" 
+            string refRegex = @"(href|HREF|src|SRC)[ ]*=[ ]*[""'][^""'#>]+[""']";
 
-                if (_urls[strRef] == null) _urls[strRef] = false;
+            MatchCollection matches = new Regex(refRegex).Matches(html);
+            foreach(Match match in matches)
+            {
+                // process this matched string and extract the url
+                string trimmedMatch = match.Value.Substring(match.Value.IndexOf("=")
+                    + 1).Trim('"', '\'', '#', ' ', '>');
+                if (trimmedMatch.Length == 0) continue;
+
+                // add the new url to the hashtable
+                if (_urls[trimmedMatch] == null) _urls[trimmedMatch] = false;
             }
         }
 
